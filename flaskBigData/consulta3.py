@@ -7,8 +7,8 @@ df = pd.DataFrame()
 nameFinalFile="consulta3_hasta2008.csv"
 archivos=os.listdir("./csvs")
 #decomentar las siguientes 2 lineas para generar los datos solo hasta 2007
-archivos.pop()#para no tomar en cuenta el ultimo csv en este caso el 2008
-nameFinalFile="consulta3_hasta2007.csv"
+# archivos.pop()#para no tomar en cuenta el ultimo csv en este caso el 2008
+# nameFinalFile="consulta3_hasta2007.csv"
 for filename in archivos:
     print(filename)
     speedlayerview = pd.read_csv("./csvs/" + filename, encoding="windows-1251")
@@ -20,6 +20,7 @@ for filename in archivos:
     vistaatrasosRorg["rorg"] = vistaatrasosRorg['WeatherDelay'].apply(lambda x: len([i for i in x if i > 0]))
     consulta3 = vistaatrasosRorg.assign(rdes=vistaatrasosRdes["retrasosLlegada"])[["rorg", "rdes", "Origin", "Dest"]]
     print(consulta3)
+    df = pd.concat([df, consulta3])
 originretarases=df.groupby(['Origin', 'Dest']).agg({"rorg": tuple}).reset_index()#retrasos llegada
 originretarases["rorg"]= originretarases['rorg'].apply(lambda x: sum(x))
 destinretarases=df.groupby(['Origin', 'Dest']).agg({"rdes": tuple}).reset_index()#retrasos llegada
