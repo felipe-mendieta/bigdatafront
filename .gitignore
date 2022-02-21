@@ -47,3 +47,5 @@ Thumbs.db
 /flaskBigData/csvs
 /.angular
 /flaskBigData/__pycache__
+flaskBigData/__pycache__/api.cpython-39.pyc
+flaskBigData/__pycache__/api.cpython-39.pyc

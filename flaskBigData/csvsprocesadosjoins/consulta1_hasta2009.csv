@@ -1,0 +1,4067 @@
+rorg,rdes,Origin,Dest
+271,572,Allentown,Atlanta
+257,419,Allentown,Wilkes-Barre Scranton
+228,325,Allentown,Baltimore
+247,1156,Allentown,Detroit
+51,66,Allentown,White Plains
+120,186,Allentown,Harrisburg
+975,1051,Allentown,Chicago
+1333,1877,Allentown,Pittsburgh
+1,0,Allentown,Rochester
+2,0,Abilene,Dallas-Fort Worth
+925,918,Albuquerque,Amarillo
+52,42,Albuquerque,Austin
+36,16,Albuquerque,Nashville
+1046,1375,Albuquerque,Dallas
+2051,3418,Albuquerque,Denver
+2518,4012,Albuquerque,Dallas-Fort Worth
+1990,2205,Albuquerque,El Paso
+368,436,Albuquerque,Houston
+310,715,Albuquerque,Houston
+1217,1799,Albuquerque,Las Vegas
+1918,2536,Albuquerque,Los Angeles
+608,746,Albuquerque,Lubbock
+272,548,Albuquerque,Midland
+81,305,Albuquerque,Kansas City
+851,1135,Albuquerque,Chicago
+4211,7948,Albuquerque,Phoenix
+519,542,Albuquerque,Pittsburgh
+255,180,Albuquerque,San Diego
+54,58,Albuquerque,San Antonio
+832,793,Albuquerque,San Francisco
+372,1176,Albuquerque,Salt Lake City
+568,1335,Albuquerque,St Louis
+128,79,Albuquerque,Tulsa
+554,654,Albuquerque,Tucson
+4,4,Arcata Eureka,Redding
+7,12,Arcata Eureka,San Francisco
+384,693,Atlantic City,Pittsburgh
+763,2209,Augusta,Atlanta
+304,372,Augusta,Columbia
+583,888,Augusta,Charlotte
+321,921,Albany,Atlanta
+1,1,Albany,Windsor Locks
+109,86,Albany,Bangor
+557,833,Albany,Buffalo
+1435,1976,Albany,Baltimore
+292,535,Albany,Cleveland
+363,728,Albany,Arlington
+511,1522,Albany,Detroit
+879,1633,Albany,Islip
+2,0,Albany,New York
+80,117,Albany,Manchester
+2857,3047,Albany,Chicago
+1224,1449,Albany,Philadelphia
+1655,1697,Albany,Pittsburgh
+6,7,Albany,Providence
+181,226,Albany,Portland
+421,741,Albany,Raleigh
+231,379,Albany,Rochester
+95,122,Albany,Syracuse
+15,26,Waterloo,Rochester
+16,29,Waterloo,St Louis
+572,448,Amarillo,Albuquerque
+1224,1640,Amarillo,Dallas
+113,311,Amarillo,Denver
+1540,2783,Amarillo,Dallas-Fort Worth
+243,447,Amarillo,Lubbock
+113,104,Amarillo,Midland
+172,677,Anchorage,Bethel
+187,446,Anchorage,Cordova
+62,78,Anchorage,Denver
+2351,3824,Anchorage,Fairbanks
+1,2,Anchorage,Honolulu
+477,990,Anchorage,Juneau
+118,179,Anchorage,Minneapolis
+174,626,Anchorage,Nome
+303,314,Anchorage,Chicago
+254,578,Anchorage,Kotzebue
+149,371,Anchorage,Portland
+207,592,Anchorage,Deadhorse
+3607,6675,Anchorage,Seattle
+25,138,Anchorage,San Francisco
+1,1,Anchorage,Sitka
+414,789,Anchorage,Salt Lake City
+322,406,Naples,Tampa
+199,464,Atlanta,Allentown
+1185,3048,Atlanta,Augusta
+516,1012,Atlanta,Albany
+799,1261,Atlanta,Austin
+28,96,Atlanta,Wilkes-Barre Scranton
+1559,2750,Atlanta,Windsor Locks
+2724,5637,Atlanta,Birmingham
+2459,5293,Atlanta,Nashville
+3189,4681,Atlanta,Boston
+651,1218,Atlanta,Baton Rouge
+901,1415,Atlanta,Buffalo
+1938,3586,Atlanta,Baltimore
+2246,4472,Atlanta,Columbia
+159,401,Atlanta,Akron
+989,2745,Atlanta,Chattanooga
+2583,4870,Atlanta,Charleston
+1592,3413,Atlanta,Cleveland
+4426,6568,Atlanta,Charlotte
+1507,3414,Atlanta,Columbus
+525,1175,Atlanta,Columbus
+1433,2847,Atlanta,Covington
+1123,2439,Atlanta,Daytona Beach
+774,1880,Atlanta,Dayton
+4009,5717,Atlanta,Arlington
+2276,3234,Atlanta,Denver
+5354,7478,Atlanta,Dallas-Fort Worth
+2812,5286,Atlanta,Detroit
+3412,5329,Atlanta,Newark
+3031,5610,Atlanta,Ft. Lauderdale
+165,389,Atlanta,Fort Wayne
+444,1016,Atlanta,Gainesville
+1818,3859,Atlanta,Greensboro
+1863,4098,Atlanta,Greer
+294,264,Atlanta,Honolulu
+1038,2210,Atlanta,Houston
+648,1187,Atlanta,Huntsville
+1782,3478,Atlanta,Chantilly
+2698,3872,Atlanta,Houston
+1247,2685,Atlanta,Indianapolis
+1228,2068,Atlanta,Jackson
+3736,6353,Atlanta,Jacksonville
+896,1104,Atlanta,New York
+486,802,Atlanta,Las Vegas
+2559,3160,Atlanta,Los Angeles
+882,1697,Atlanta,Lexington
+4684,6410,Atlanta,New York
+668,1256,Atlanta,Little Rock
+1874,3332,Atlanta,Kansas City
+4248,7169,Atlanta,Orlando
+2597,5505,Atlanta,Memphis
+1268,2567,Atlanta,Montgomery
+4735,7311,Atlanta,Miami
+617,1028,Atlanta,Milwaukee
+1103,2266,Atlanta,Melbourne
+242,434,Atlanta,Monroe
+1610,3131,Atlanta,Mobile
+1342,3035,Atlanta,Minneapolis
+2598,4488,Atlanta,New Orleans
+438,870,Atlanta,Oklahoma City
+320,584,Atlanta,Omaha
+465,475,Atlanta,Ontario
+6964,9829,Atlanta,Chicago
+1129,2699,Atlanta,Norfolk
+2294,3606,Atlanta,West Palm Beach
+379,416,Atlanta,Portland
+4236,6446,Atlanta,Philadelphia
+1036,1588,Atlanta,Phoenix
+3427,5321,Atlanta,Pittsburgh
+1908,3468,Atlanta,Pensacola
+238,382,Atlanta,Providence
+2314,4874,Atlanta,Raleigh
+1203,2679,Atlanta,Richmond
+445,932,Atlanta,Rochester
+1979,3810,Atlanta,Ft. Myers
+395,428,Atlanta,San Diego
+877,1614,Atlanta,San Antonio
+2094,4335,Atlanta,Savannah
+2205,3616,Atlanta,Louisville
+968,1395,Atlanta,Seattle
+2033,2377,Atlanta,San Francisco
+148,427,Atlanta,Shreveport
+1338,1915,Atlanta,San Juan
+1647,2359,Atlanta,Salt Lake City
+1624,3340,Atlanta,Sarasota
+2491,5235,Atlanta,St Louis
+94,144,Atlanta,Charlotte Amalie
+313,667,Atlanta,Syracuse
+1026,2403,Atlanta,Tallahassee
+271,889,Atlanta,Toledo
+3482,5989,Atlanta,Tampa
+776,1384,Atlanta,Tulsa
+107,102,Atlanta,Tucson
+1483,3314,Atlanta,Knoxville
+5,9,Appleton,Mosinee
+55,103,Appleton,Detroit
+26,156,Appleton,Green Bay
+178,537,Appleton,Minneapolis
+134,231,Austin,Albuquerque
+808,1433,Austin,Atlanta
+1764,1848,Austin,Dallas
+674,706,Austin,Denver
+3896,6802,Austin,Dallas-Fort Worth
+726,939,Austin,El Paso
+2624,2646,Austin,Houston
+183,257,Austin,Harlingen
+1278,2452,Austin,Houston
+147,114,Austin,Las Vegas
+277,342,Austin,Los Angeles
+392,428,Austin,Lubbock
+389,672,Austin,Midland
+341,1024,Austin,Memphis
+2,2,Austin,New Orleans
+1185,1621,Austin,Chicago
+1441,2213,Austin,Phoenix
+762,1374,Austin,San Antonio
+206,802,Austin,St Louis
+424,538,Asheville,Baltimore
+2172,2632,Asheville,Charlotte
+0,1,Asheville,Lexington
+278,900,Wilkes-Barre Scranton,Allentown
+1,0,Wilkes-Barre Scranton,Windsor Locks
+17,9,Wilkes-Barre Scranton,Elmira
+72,243,Wilkes-Barre Scranton,Philadelphia
+985,1485,Wilkes-Barre Scranton,Pittsburgh
+1383,1588,Kalamazoo,Dayton
+485,1431,Kalamazoo,Detroit
+176,237,Kalamazoo,Lansing
+232,645,Kalamazoo,Minneapolis
+28,34,Kalamazoo,South Bend
+1251,2292,Windsor Locks,Atlanta
+693,1204,Windsor Locks,Boston
+22,22,Windsor Locks,Burlington
+619,751,Windsor Locks,Buffalo
+2161,2355,Windsor Locks,Baltimore
+384,765,Windsor Locks,Cleveland
+124,116,Windsor Locks,Charlotte
+451,1013,Windsor Locks,Covington
+1727,2635,Windsor Locks,Arlington
+99,156,Windsor Locks,Denver
+690,667,Windsor Locks,Dallas-Fort Worth
+844,2209,Windsor Locks,Detroit
+734,1693,Windsor Locks,Newark
+287,510,Windsor Locks,Ft. Lauderdale
+1083,1571,Windsor Locks,Chantilly
+122,291,Windsor Locks,Islip
+314,594,Windsor Locks,New York
+47,30,Windsor Locks,Los Angeles
+16,81,Windsor Locks,New York
+394,789,Windsor Locks,Orlando
+302,681,Windsor Locks,Minneapolis
+3266,3936,Windsor Locks,Chicago
+190,325,Windsor Locks,West Palm Beach
+2577,2905,Windsor Locks,Philadelphia
+2528,2287,Windsor Locks,Pittsburgh
+146,246,Windsor Locks,Providence
+814,987,Windsor Locks,Raleigh
+358,257,Windsor Locks,San Juan
+392,1131,Windsor Locks,St Louis
+493,670,Windsor Locks,Syracuse
+205,440,Windsor Locks,Tampa
+289,646,Bethel,Anchorage
+1,1,Seattle,Denver
+23,8,Bakersfield,Burbank
+20,57,Bakersfield,Denver
+214,469,Bakersfield,Dallas-Fort Worth
+33,65,Bakersfield,Ontario
+1,1,Bakersfield,Palm Springs
+216,279,Bakersfield,Santa Barbara
+714,681,Binghamton,Baltimore
+97,441,Binghamton,Elmira
+62,33,Binghamton,Ithaca
+949,1472,Binghamton,Pittsburgh
+811,1662,Bangor,Boston
+101,125,Bangor,Burlington
+60,87,Bangor,Manchester
+116,157,Bangor,Chicago
+158,219,Bangor,Portland
+37,155,Bangor,Syracuse
+2182,5511,Birmingham,Atlanta
+1594,2708,Birmingham,Nashville
+0,0,Birmingham,Baton Rouge
+1422,1415,Birmingham,Charlotte
+109,433,Birmingham,Covington
+965,1803,Birmingham,Dallas-Fort Worth
+22,137,Birmingham,Detroit
+64,247,Birmingham,Houston
+763,1042,Birmingham,Huntsville
+574,964,Birmingham,Jackson
+85,193,Birmingham,Orlando
+642,1742,Birmingham,Memphis
+232,362,Birmingham,Montgomery
+1,1,Birmingham,Mobile
+1095,1751,Birmingham,New Orleans
+184,175,Birmingham,Chicago
+21,47,Birmingham,Pensacola
+140,269,Birmingham,Louisville
+419,597,Billings,Bozeman
+928,1319,Billings,Denver
+210,424,Billings,Spokane
+643,759,Billings,Great Falls
+84,131,Billings,Missoula
+362,962,Billings,Minneapolis
+763,1146,Billings,Salt Lake City
+44,160,Bismarck,Casper
+246,665,Bismarck,Denver
+2,2,Bismarck,Fargo
+214,236,Bismarck,Sioux Falls
+420,496,Bismarck,Minot
+436,1350,Bismarck,Minneapolis
+83,224,Bismarck,Salt Lake City
+0,0,Bellingham,San Diego
+918,1273,Bellingham,Seattle
+1949,5081,Nashville,Atlanta
+2843,3419,Nashville,Birmingham
+1023,823,Nashville,Boston
+892,744,Nashville,Baton Rouge
+898,799,Nashville,Baltimore
+51,68,Nashville,Akron
+729,676,Nashville,Chattanooga
+907,882,Nashville,Cleveland
+1548,1885,Nashville,Charlotte
+497,498,Nashville,Columbus
+407,966,Nashville,Covington
+841,782,Nashville,Arlington
+491,550,Nashville,Detroit
+2867,3550,Nashville,Dallas-Fort Worth
+241,216,Nashville,Des Moines
+1590,2067,Nashville,Detroit
+3,15,Nashville,Evansville
+1023,1079,Nashville,Newark
+560,491,Nashville,Ft. Lauderdale
+391,281,Nashville,Greensboro
+1309,1531,Nashville,Houston
+869,846,Nashville,Huntsville
+152,173,Nashville,Chantilly
+1152,849,Nashville,Houston
+624,579,Nashville,Indianapolis
+999,718,Nashville,Jackson
+287,336,Nashville,New York
+615,491,Nashville,Los Angeles
+1024,913,Nashville,New York
+839,844,Nashville,Little Rock
+314,308,Nashville,Kansas City
+950,1169,Nashville,Orlando
+1544,1672,Nashville,Chicago
+2383,3173,Nashville,Memphis
+655,663,Nashville,Miami
+883,676,Nashville,Milwaukee
+963,763,Nashville,Mobile
+531,783,Nashville,Minneapolis
+892,926,Nashville,New Orleans
+63,95,Nashville,Omaha
+1999,2523,Nashville,Chicago
+454,440,Nashville,West Palm Beach
+1472,1603,Nashville,Philadelphia
+334,579,Nashville,Phoenix
+1312,1682,Nashville,Pittsburgh
+376,386,Nashville,Raleigh
+572,494,Nashville,Ft. Myers
+500,369,Nashville,San Antonio
+63,29,Nashville,San Juan
+47,41,Nashville,Sarasota
+805,1675,Nashville,St Louis
+950,876,Nashville,Tampa
+43,25,Nashville,Tulsa
+830,1239,Nashville,Knoxville
+822,1267,Boise,Denver
+304,848,Boise,Las Vegas
+21,18,Boise,Los Angeles
+376,516,Boise,Chicago
+208,342,Boise,Pasco
+47,36,Boise,Reno
+220,1089,Boise,Seattle
+1086,1336,Boise,San Francisco
+420,1226,Boise,Salt Lake City
+9,9,Boise,Hailey
+2900,4523,Boston,Atlanta
+516,975,Boston,Windsor Locks
+1190,1903,Boston,Bangor
+867,1076,Boston,Nashville
+493,793,Boston,Burlington
+917,1270,Boston,Buffalo
+4384,4108,Boston,Baltimore
+1854,2807,Boston,Cleveland
+3165,2982,Boston,Charlotte
+822,1792,Boston,Covington
+1050,1226,Boston,Dayton
+5768,9600,Boston,Arlington
+2106,2077,Boston,Denver
+2733,3347,Boston,Dallas-Fort Worth
+1734,2874,Boston,Detroit
+5716,8434,Boston,Newark
+1164,1484,Boston,Ft. Lauderdale
+540,532,Boston,Greensboro
+1971,2480,Boston,Chantilly
+1025,1027,Boston,Houston
+1634,2966,Boston,New York
+2113,1817,Boston,Los Angeles
+3374,12811,Boston,New York
+123,235,Boston,Kansas City
+1258,1894,Boston,Orlando
+635,803,Boston,Harrisburg
+628,799,Boston,Memphis
+1309,1763,Boston,Miami
+320,634,Boston,Milwaukee
+1608,2100,Boston,Minneapolis
+6460,6368,Boston,Chicago
+680,940,Boston,Norfolk
+741,862,Boston,West Palm Beach
+6158,8000,Boston,Philadelphia
+3877,3844,Boston,Pittsburgh
+5,4,Boston,Providence
+1456,2147,Boston,Portland
+1047,1128,Boston,Raleigh
+531,704,Boston,Richmond
+1313,1616,Boston,Rochester
+25,66,Boston,Ft. Myers
+1206,988,Boston,San Francisco
+878,881,Boston,San Juan
+370,739,Boston,Salt Lake City
+1574,1952,Boston,St Louis
+1820,2020,Boston,Syracuse
+680,1528,Boston,Tampa
+198,925,Butte,Bozeman
+0,2,Butte,Salt Lake City
+752,1516,Baton Rouge,Atlanta
+374,581,Baton Rouge,Nashville
+1658,3187,Baton Rouge,Dallas-Fort Worth
+516,990,Baton Rouge,Houston
+2,2,Baton Rouge,Jackson
+191,111,Baton Rouge,Lafayette
+356,1169,Baton Rouge,Memphis
+366,931,Baton Rouge,Mobile
+20,57,Baton Rouge,New Orleans
+699,1082,Baton Rouge,Pensacola
+10,11,Burlington,Windsor Locks
+42,49,Burlington,Bangor
+592,758,Burlington,Boston
+532,1467,Burlington,Newark
+338,502,Burlington,Chantilly
+995,1233,Burlington,New York
+26,54,Burlington,Manchester
+898,994,Burlington,Chicago
+702,828,Burlington,Philadelphia
+1363,1530,Burlington,Pittsburgh
+25,42,Burlington,Portland
+112,188,Burlington,Syracuse
+531,804,Buffalo,Albany
+875,1540,Buffalo,Atlanta
+497,700,Buffalo,Windsor Locks
+992,1126,Buffalo,Boston
+1794,1750,Buffalo,Baltimore
+1127,1775,Buffalo,Cleveland
+1011,1064,Buffalo,Arlington
+26,45,Buffalo,Denver
+470,1270,Buffalo,Detroit
+3646,6143,Buffalo,Newark
+353,623,Buffalo,Chantilly
+420,574,Buffalo,New York
+2844,3753,Buffalo,New York
+47,216,Buffalo,Minneapolis
+3039,3878,Buffalo,Chicago
+1664,1341,Buffalo,Philadelphia
+1956,2030,Buffalo,Pittsburgh
+472,902,Buffalo,Raleigh
+236,368,Buffalo,Rochester
+1133,1204,Buffalo,Syracuse
+24,27,Buffalo,Tampa
+51,37,Burbank,Bakersfield
+871,1377,Burbank,Denver
+460,782,Burbank,Dallas-Fort Worth
+2520,3878,Burbank,Las Vegas
+210,477,Burbank,Long Beach
+1840,2503,Burbank,Oakland
+228,282,Burbank,Ontario
+323,740,Burbank,Portland
+1089,2041,Burbank,Phoenix
+139,172,Burbank,Reno
+23,36,Burbank,San Diego
+291,492,Burbank,Seattle
+5130,4919,Burbank,San Francisco
+1783,2443,Burbank,San Jose
+345,610,Burbank,Salt Lake City
+1280,1445,Burbank,Sacramento
+0,5,Burbank,Santa Ana
+559,705,Burbank,St Louis
+281,292,Baltimore,Allentown
+1818,1818,Baltimore,Albany
+1879,3312,Baltimore,Atlanta
+591,512,Baltimore,Asheville
+2838,2208,Baltimore,Windsor Locks
+544,757,Baltimore,Binghamton
+897,839,Baltimore,Nashville
+4634,3948,Baltimore,Boston
+1555,1458,Baltimore,Buffalo
+502,522,Baltimore,Columbia
+130,240,Baltimore,Charlottesville
+516,547,Baltimore,Charleston
+1878,2282,Baltimore,Cleveland
+3700,3490,Baltimore,Charlotte
+437,931,Baltimore,Covington
+754,782,Baltimore,Dayton
+142,208,Baltimore,Arlington
+649,986,Baltimore,Denver
+1568,2035,Baltimore,Dallas-Fort Worth
+2432,3172,Baltimore,Detroit
+2468,2317,Baltimore,Newark
+703,660,Baltimore,Fayetteville
+1530,1227,Baltimore,Ft. Lauderdale
+2369,2270,Baltimore,Greensboro
+7,22,Baltimore,Chantilly
+1357,1576,Baltimore,Houston
+990,837,Baltimore,Wilmington
+262,347,Baltimore,Indianapolis
+671,664,Baltimore,Kinston
+1327,1406,Baltimore,Islip
+1423,1238,Baltimore,Jacksonville
+1144,1258,Baltimore,New York
+83,158,Baltimore,Las Vegas
+1243,1148,Baltimore,Los Angeles
+3214,2829,Baltimore,New York
+52,63,Baltimore,Lynchburg
+630,531,Baltimore,Kansas City
+2722,2780,Baltimore,Orlando
+162,313,Baltimore,Harrisburg
+83,215,Baltimore,Memphis
+1675,1477,Baltimore,Miami
+341,764,Baltimore,Minneapolis
+485,444,Baltimore,New Orleans
+1057,892,Baltimore,Myrtle Beach
+402,530,Baltimore,Jacksonville
+4323,5361,Baltimore,Chicago
+2606,2555,Baltimore,Norfolk
+1708,1413,Baltimore,Worcester
+991,857,Baltimore,West Palm Beach
+542,726,Baltimore,Philadelphia
+1396,1338,Baltimore,Phoenix
+2646,3063,Baltimore,Pittsburgh
+1910,1503,Baltimore,Providence
+2068,2127,Baltimore,Raleigh
+1461,1496,Baltimore,Richmond
+1303,1531,Baltimore,Roanoke
+1606,1885,Baltimore,Rochester
+547,502,Baltimore,Ft. Myers
+409,484,Baltimore,San Juan
+1453,1871,Baltimore,St Louis
+2433,2343,Baltimore,Syracuse
+2043,1720,Baltimore,Tampa
+421,541,Baltimore,Utica
+123,537,Bozeman,Billings
+512,696,Bozeman,Butte
+573,614,Bozeman,Denver
+46,51,Bozeman,Great Falls
+305,273,Bozeman,Missoula
+31,138,Bozeman,Minneapolis
+628,1429,Bozeman,Salt Lake City
+1972,4417,Columbia,Atlanta
+555,448,Columbia,Baltimore
+77,104,Columbia,Charleston
+2029,2926,Columbia,Charlotte
+1122,1188,Columbia,Newark
+120,127,Columbia,Greensboro
+5,15,Columbia,Greer
+122,180,Columbia,Chantilly
+1,0,Columbia,Jacksonville
+301,412,Columbia,Chicago
+272,676,Columbia,Raleigh
+48,54,Columbia,Savannah
+141,401,Akron,Atlanta
+29,72,Akron,Nashville
+0,0,Akron,Baltimore
+47,50,Akron,Cleveland
+134,343,Akron,Columbus
+1,1,Akron,Covington
+1193,1349,Akron,Dayton
+15,104,Akron,Detroit
+39,104,Akron,Fort Wayne
+792,1060,Akron,Chicago
+3,2,Akron,Pittsburgh
+616,747,Concord,Los Angeles
+173,339,Cordova,Anchorage
+128,245,Cordova,Yakutat
+949,2989,Chattanooga,Atlanta
+2,3,Chattanooga,Birmingham
+354,609,Chattanooga,Nashville
+1,1,Chattanooga,Baton Rouge
+843,952,Chattanooga,Charlotte
+1,1,Chattanooga,Huntsville
+272,1036,Chattanooga,Memphis
+1,1,Chattanooga,Ft. Myers
+1,1,Chattanooga,Knoxville
+125,126,Charlottesville,Baltimore
+960,1169,Charlottesville,Charlotte
+381,392,Charlottesville,New York
+171,277,Charlottesville,Lynchburg
+135,204,Charlottesville,Roanoke
+1937,4274,Charleston,Atlanta
+494,439,Charleston,Baltimore
+54,77,Charleston,Columbia
+2113,2302,Charleston,Charlotte
+522,548,Charleston,Arlington
+379,392,Charleston,Newark
+24,266,Charleston,Greer
+408,684,Charleston,Chantilly
+475,498,Charleston,Jacksonville
+20,136,Charleston,New York
+89,97,Charleston,Miami
+12,19,Charleston,Myrtle Beach
+544,783,Charleston,Chicago
+566,759,Charleston,Norfolk
+1,1,Charleston,West Palm Beach
+288,599,Charleston,Raleigh
+880,1220,Charleston,Savannah
+450,548,Cedar Rapids,Denver
+181,1187,Cedar Rapids,Des Moines
+33,108,Cedar Rapids,Detroit
+144,527,Cedar Rapids,Moline
+308,721,Cedar Rapids,Minneapolis
+162,222,Cedar Rapids,Chicago
+39,41,Cedar Rapids,Phoenix
+87,135,Cedar Rapids,Peoria
+514,1786,Cedar Rapids,St Louis
+10,15,Cedar Rapids,Sioux City
+517,414,Cleveland,Albany
+742,2630,Cleveland,Atlanta
+585,511,Cleveland,Windsor Locks
+844,1025,Cleveland,Nashville
+2477,2674,Cleveland,Boston
+1551,1791,Cleveland,Buffalo
+1506,2118,Cleveland,Baltimore
+12,18,Cleveland,Akron
+1306,1626,Cleveland,Charlotte
+138,185,Cleveland,Columbus
+2,2,Cleveland,Charleston
+244,1570,Cleveland,Covington
+1,1,Cleveland,Dayton
+2511,3131,Cleveland,Arlington
+2108,2371,Cleveland,Denver
+841,879,Cleveland,Dallas-Fort Worth
+980,2243,Cleveland,Detroit
+2629,4384,Cleveland,Newark
+522,511,Cleveland,Ft. Lauderdale
+77,115,Cleveland,Flint
+35,74,Cleveland,Houston
+581,961,Cleveland,Chantilly
+936,1391,Cleveland,Houston
+1638,2085,Cleveland,Indianapolis
+898,1348,Cleveland,New York
+269,352,Cleveland,Lansing
+377,300,Cleveland,Las Vegas
+1751,1642,Cleveland,Los Angeles
+3395,5042,Cleveland,New York
+286,346,Cleveland,Saginaw
+91,103,Cleveland,Kansas City
+871,1686,Cleveland,Orlando
+753,1211,Cleveland,Chicago
+93,468,Cleveland,Memphis
+289,444,Cleveland,Miami
+565,649,Cleveland,Milwaukee
+875,1996,Cleveland,Minneapolis
+137,301,Cleveland,New Orleans
+4856,5648,Cleveland,Chicago
+336,375,Cleveland,West Palm Beach
+2077,2466,Cleveland,Philadelphia
+451,451,Cleveland,Phoenix
+2796,3367,Cleveland,Pittsburgh
+708,705,Cleveland,Raleigh
+520,493,Cleveland,Rochester
+221,210,Cleveland,Ft. Myers
+1209,1208,Cleveland,San Francisco
+237,266,Cleveland,Sarasota
+1290,2140,Cleveland,St Louis
+545,588,Cleveland,Syracuse
+796,682,Cleveland,Tampa
+780,894,Charlotte,Augusta
+4861,7034,Charlotte,Atlanta
+2684,2803,Charlotte,Asheville
+121,128,Charlotte,Windsor Locks
+1554,1579,Charlotte,Birmingham
+2157,2171,Charlotte,Nashville
+3619,3075,Charlotte,Boston
+3927,3682,Charlotte,Baltimore
+2888,3157,Charlotte,Columbia
+912,789,Charlotte,Chattanooga
+809,888,Charlotte,Charlottesville
+2575,2594,Charlotte,Charleston
+1888,1725,Charlotte,Cleveland
+1234,1431,Charlotte,Columbus
+1651,1587,Charlotte,Charleston
+1634,1690,Charlotte,Covington
+1171,1075,Charlotte,Daytona Beach
+2307,2340,Charlotte,Dayton
+3581,3090,Charlotte,Arlington
+1348,1412,Charlotte,Denver
+3183,3352,Charlotte,Dallas-Fort Worth
+2224,2125,Charlotte,Detroit
+4907,4053,Charlotte,Newark
+3207,3891,Charlotte,Fayetteville
+1912,1500,Charlotte,Ft. Lauderdale
+672,605,Charlotte,Gainesville
+5037,4613,Charlotte,Greensboro
+2706,2785,Charlotte,Greer
+1169,1197,Charlotte,Huntington
+2043,2136,Charlotte,Houston
+2492,2625,Charlotte,Wilmington
+1181,1415,Charlotte,Indianapolis
+629,706,Charlotte,Kinston
+2960,2827,Charlotte,Jacksonville
+551,607,Charlotte,New York
+1556,1355,Charlotte,Los Angeles
+1143,1190,Charlotte,Lexington
+4412,3631,Charlotte,New York
+1304,1442,Charlotte,Lynchburg
+862,781,Charlotte,Kansas City
+3645,3393,Charlotte,Orlando
+1470,1305,Charlotte,Memphis
+2314,2097,Charlotte,Miami
+445,371,Charlotte,Melbourne
+1077,1126,Charlotte,Minneapolis
+1961,2133,Charlotte,New Orleans
+3308,3356,Charlotte,Myrtle Beach
+1449,1356,Charlotte,Jacksonville
+5970,6124,Charlotte,Chicago
+4263,3516,Charlotte,Norfolk
+353,334,Charlotte,West Palm Beach
+3650,3182,Charlotte,Philadelphia
+1017,836,Charlotte,Phoenix
+2885,3306,Charlotte,Pittsburgh
+402,358,Charlotte,Pensacola
+4287,5062,Charlotte,Raleigh
+3971,3101,Charlotte,Richmond
+3272,3264,Charlotte,Roanoke
+407,481,Charlotte,Ft. Myers
+1657,1523,Charlotte,Savannah
+1452,1850,Charlotte,Louisville
+855,733,Charlotte,Seattle
+1583,1373,Charlotte,San Francisco
+21,29,Charlotte,San Juan
+42,55,Charlotte,Sarasota
+2068,2674,Charlotte,St Louis
+1344,1511,Charlotte,Tallahassee
+3336,3107,Charlotte,Tampa
+2413,2658,Charlotte,Bristol
+1585,1721,Charlotte,Knoxville
+797,2339,Columbus,Atlanta
+171,453,Columbus,Nashville
+207,450,Columbus,Akron
+101,177,Columbus,Cleveland
+1126,1318,Columbus,Charlotte
+1099,2573,Columbus,Covington
+45,55,Columbus,Dayton
+1449,1976,Columbus,Arlington
+148,248,Columbus,Denver
+378,654,Columbus,Dallas-Fort Worth
+572,1565,Columbus,Detroit
+1448,2634,Columbus,Newark
+73,133,Columbus,Houston
+1575,2128,Columbus,Indianapolis
+300,417,Columbus,New York
+1396,1990,Columbus,New York
+100,329,Columbus,Orlando
+232,581,Columbus,Memphis
+324,863,Columbus,Minneapolis
+3087,4507,Columbus,Chicago
+914,906,Columbus,Philadelphia
+1909,1936,Columbus,Pittsburgh
+18,22,Columbus,Louisville
+1233,1910,Columbus,St Louis
+773,1585,Champaign Urbana,Dayton
+62,176,Champaign Urbana,Peoria
+169,758,Champaign Urbana,St Louis
+0,0,Colorado Springs,Albuquerque
+1589,3107,Colorado Springs,Denver
+867,1534,Colorado Springs,Dallas-Fort Worth
+112,202,Colorado Springs,Wichita
+155,443,Colorado Springs,Las Vegas
+697,906,Colorado Springs,Chicago
+376,1163,Colorado Springs,Phoenix
+596,861,Colorado Springs,Pueblo
+202,1008,Colorado Springs,Salt Lake City
+496,883,Colorado Springs,St Louis
+99,151,Casper,Bismarck
+24,80,Casper,Denver
+147,181,Casper,Rapid City
+264,732,Casper,Salt Lake City
+881,1470,Corpus Christi,Dallas-Fort Worth
+1592,2218,Corpus Christi,Houston
+1,1,Corpus Christi,Harlingen
+640,1169,Corpus Christi,Houston
+62,144,Corpus Christi,San Antonio
+4,3,Charleston,Cleveland
+1809,1995,Charleston,Charlotte
+198,206,Charleston,Covington
+660,729,Charleston,Arlington
+596,680,Charleston,Huntington
+58,89,Charleston,Lexington
+307,389,Charleston,New York
+67,90,Charleston,Chicago
+1208,1527,Charleston,Pittsburgh
+350,1229,Columbus,Atlanta
+1736,3022,Covington,Atlanta
+574,1165,Covington,Windsor Locks
+278,479,Covington,Birmingham
+418,860,Covington,Nashville
+948,1739,Covington,Boston
+365,993,Covington,Baltimore
+540,2017,Covington,Cleveland
+1192,1369,Covington,Charlotte
+1171,2109,Covington,Columbus
+252,634,Covington,Dayton
+1082,2349,Covington,Arlington
+242,231,Covington,Denver
+1260,2199,Covington,Dallas-Fort Worth
+1316,3577,Covington,Detroit
+1692,2548,Covington,Newark
+275,1130,Covington,Ft. Lauderdale
+251,479,Covington,Fort Wayne
+10,25,Covington,Greensboro
+146,510,Covington,Houston
+334,794,Covington,Houston
+835,1876,Covington,Indianapolis
+356,843,Covington,Jackson
+39,101,Covington,Jacksonville
+482,967,Covington,New York
+781,1122,Covington,Los Angeles
+888,2453,Covington,Lexington
+1364,2347,Covington,New York
+295,910,Covington,Little Rock
+492,1346,Covington,Kansas City
+792,1545,Covington,Orlando
+1,1,Covington,Harrisburg
+590,1589,Covington,Memphis
+473,1033,Covington,Miami
+37,140,Covington,Milwaukee
+822,2156,Covington,Minneapolis
+671,1349,Covington,New Orleans
+3873,6885,Covington,Chicago
+482,911,Covington,Norfolk
+348,923,Covington,West Palm Beach
+226,483,Covington,Portland
+1737,2768,Covington,Philadelphia
+640,911,Covington,Phoenix
+2120,3275,Covington,Pittsburgh
+382,812,Covington,Raleigh
+511,1377,Covington,Richmond
+123,365,Covington,Ft. Myers
+296,451,Covington,San Diego
+1405,2435,Covington,Louisville
+186,292,Covington,Seattle
+572,891,Covington,San Francisco
+1228,1672,Covington,Salt Lake City
+12,10,Covington,Sarasota
+804,2592,Covington,St Louis
+691,1515,Covington,Tampa
+238,467,Covington,Knoxville
+6,54,Mosinee,Appleton
+56,95,Mosinee,Detroit
+30,256,Mosinee,Milwaukee
+113,572,Mosinee,Minneapolis
+802,2489,Daytona Beach,Atlanta
+671,939,Daytona Beach,Charlotte
+450,504,Daytona Beach,Newark
+109,545,Daytona Beach,Jacksonville
+467,675,Daytona Beach,Melbourne
+410,828,Daytona Beach,Raleigh
+857,1157,Dallas,Albuquerque
+1130,1751,Dallas,Amarillo
+2050,2051,Dallas,Austin
+631,1159,Dallas,El Paso
+7064,7964,Dallas,Houston
+953,1307,Dallas,Houston
+1360,2150,Dallas,Lubbock
+1355,1602,Dallas,Little Rock
+1374,1533,Dallas,Midland
+279,306,Dallas,New Orleans
+1510,2063,Dallas,Oklahoma City
+2378,2790,Dallas,San Antonio
+1397,2281,Dallas,Tulsa
+386,1846,Dayton,Atlanta
+1846,2032,Dayton,Kalamazoo
+1300,890,Dayton,Boston
+730,747,Dayton,Baltimore
+1639,1623,Dayton,Akron
+1830,1974,Dayton,Charlotte
+69,120,Dayton,Columbus
+1538,1745,Dayton,Champaign Urbana
+70,443,Dayton,Covington
+1954,1919,Dayton,Arlington
+508,492,Dayton,Denver
+1546,1413,Dayton,Dallas-Fort Worth
+46,133,Dayton,Detroit
+1467,1673,Dayton,Evansville
+1660,1548,Dayton,Newark
+465,512,Dayton,Ft. Lauderdale
+1669,1756,Dayton,Flint
+1361,1441,Dayton,Fort Wayne
+2218,2199,Dayton,Grand Rapids
+1,1,Dayton,Indianapolis
+510,496,Dayton,New York
+1463,1559,Dayton,Lansing
+1283,1036,Dayton,Los Angeles
+108,101,Dayton,Lexington
+1992,1861,Dayton,New York
+1638,1658,Dayton,Orlando
+866,851,Dayton,Miami
+149,724,Dayton,Minneapolis
+12,10,Dayton,Myrtle Beach
+2389,3574,Dayton,Chicago
+1542,1758,Dayton,Philadelphia
+47,49,Dayton,Phoenix
+1470,1750,Dayton,Pittsburgh
+1915,2064,Dayton,South Bend
+1483,1649,Dayton,Louisville
+839,671,Dayton,San Francisco
+764,1787,Dayton,St Louis
+947,924,Dayton,Toledo
+1517,1286,Dayton,Tampa
+615,1063,Arlington,Albany
+3693,5609,Arlington,Atlanta
+1826,2346,Arlington,Windsor Locks
+847,1014,Arlington,Nashville
+6158,6714,Arlington,Boston
+1193,1089,Arlington,Buffalo
+211,244,Arlington,Baltimore
+538,901,Arlington,Charleston
+2866,3506,Arlington,Cleveland
+3441,3470,Arlington,Charlotte
+1764,2047,Arlington,Columbus
+667,765,Arlington,Charleston
+1079,2089,Arlington,Covington
+1835,1959,Arlington,Dayton
+3796,3763,Arlington,Dallas-Fort Worth
+1439,2629,Arlington,Detroit
+1691,4929,Arlington,Newark
+227,381,Arlington,Ft. Lauderdale
+1409,1281,Arlington,Greensboro
+1,1,Arlington,Chantilly
+1834,1819,Arlington,Houston
+40,51,Arlington,Wichita
+1748,1922,Arlington,Indianapolis
+721,801,Arlington,Islip
+1946,2856,Arlington,New York
+199,340,Arlington,Lexington
+2353,8149,Arlington,New York
+345,464,Arlington,Kansas City
+995,1984,Arlington,Orlando
+640,1435,Arlington,Memphis
+1755,2897,Arlington,Miami
+141,443,Arlington,Milwaukee
+1260,2187,Arlington,Minneapolis
+557,641,Arlington,New Orleans
+1,0,Arlington,Oklahoma City
+125,98,Arlington,Omaha
+5349,6875,Arlington,Chicago
+155,178,Arlington,Norfolk
+603,707,Arlington,West Palm Beach
+4,2,Arlington,Philadelphia
+3220,3268,Arlington,Pittsburgh
+1686,2192,Arlington,Providence
+2445,2649,Arlington,Raleigh
+1120,1233,Arlington,Rochester
+13,11,Arlington,Ft. Myers
+819,897,Arlington,Louisville
+17,15,Arlington,Sarasota
+2914,3256,Arlington,St Louis
+2128,2276,Arlington,Syracuse
+794,1155,Arlington,Tampa
+2653,2730,Denver,Albuquerque
+1,0,Denver,Albany
+176,173,Denver,Amarillo
+108,54,Denver,Anchorage
+2036,2737,Denver,Atlanta
+639,614,Denver,Austin
+144,67,Denver,Windsor Locks
+46,62,Denver,Bakersfield
+1267,1286,Denver,Billings
+422,512,Denver,Bismarck
+1192,1436,Denver,Boise
+1881,1512,Denver,Boston
+37,29,Denver,Buffalo
+1338,1264,Denver,Burbank
+819,753,Denver,Baltimore
+593,445,Denver,Bozeman
+593,839,Denver,Cedar Rapids
+1869,2005,Denver,Cleveland
+989,927,Denver,Charlotte
+178,98,Denver,Columbus
+2088,2198,Denver,Colorado Springs
+51,60,Denver,Casper
+237,148,Denver,Covington
+348,536,Denver,Dayton
+5885,7290,Denver,Dallas-Fort Worth
+1005,1118,Denver,Des Moines
+2332,2455,Denver,Detroit
+670,696,Denver,El Paso
+662,881,Denver,Eugene
+3183,3486,Denver,Newark
+521,501,Denver,Fargo
+853,1061,Denver,Fresno
+647,736,Denver,Sioux Falls
+1129,1269,Denver,Spokane
+584,513,Denver,Grand Junction
+28,11,Denver,Great Falls
+631,479,Denver,Honolulu
+999,1362,Denver,Houston
+2785,2580,Denver,Chantilly
+3501,4307,Denver,Houston
+1377,1215,Denver,Wichita
+936,973,Denver,Indianapolis
+44,27,Denver,Jackson
+726,724,Denver,New York
+2961,3617,Denver,Las Vegas
+5525,6535,Denver,Los Angeles
+2788,2724,Denver,New York
+323,420,Denver,Long Beach
+742,807,Denver,Lincoln
+2069,2707,Denver,Kansas City
+1218,1097,Denver,Orlando
+826,897,Denver,Chicago
+394,864,Denver,Memphis
+902,642,Denver,Miami
+868,821,Denver,Milwaukee
+297,420,Denver,Moline
+196,212,Denver,Madison
+86,160,Denver,Missoula
+3154,3663,Denver,Minneapolis
+1239,1513,Denver,New Orleans
+1786,2210,Denver,Oakland
+1430,1670,Denver,Oklahoma City
+1703,1969,Denver,Omaha
+2127,2553,Denver,Ontario
+7805,8439,Denver,Chicago
+2419,2447,Denver,Portland
+1520,1094,Denver,Philadelphia
+4336,5078,Denver,Phoenix
+221,218,Denver,Peoria
+1560,1644,Denver,Pittsburgh
+394,643,Denver,Palm Springs
+35,52,Denver,Rapid City
+1509,1873,Denver,Reno
+3019,3344,Denver,San Diego
+823,753,Denver,San Antonio
+646,840,Denver,Santa Barbara
+80,121,Denver,Louisville
+3946,3864,Denver,Seattle
+5115,5612,Denver,San Francisco
+485,403,Denver,Springfield
+2253,2768,Denver,San Jose
+3854,5415,Denver,Salt Lake City
+1794,2166,Denver,Sacramento
+1238,1027,Denver,Santa Ana
+2527,2855,Denver,St Louis
+590,439,Denver,Tampa
+1303,1459,Denver,Tulsa
+1568,1816,Denver,Tucson
+364,525,Detroit,Nashville
+199,896,Detroit,Indianapolis
+1869,3185,Detroit,Chicago
+731,811,Detroit,St Louis
+4059,4498,Dallas-Fort Worth,Albuquerque
+2662,3145,Dallas-Fort Worth,Amarillo
+6916,7629,Dallas-Fort Worth,Atlanta
+6470,6620,Dallas-Fort Worth,Austin
+1024,742,Dallas-Fort Worth,Windsor Locks
+835,579,Dallas-Fort Worth,Bakersfield
+1471,1421,Dallas-Fort Worth,Birmingham
+4045,4370,Dallas-Fort Worth,Nashville
+2924,2586,Dallas-Fort Worth,Boston
+2281,3171,Dallas-Fort Worth,Baton Rouge
+967,812,Dallas-Fort Worth,Burbank
+2258,2089,Dallas-Fort Worth,Baltimore
+1134,825,Dallas-Fort Worth,Cleveland
+3419,3184,Dallas-Fort Worth,Charlotte
+905,636,Dallas-Fort Worth,Columbus
+1384,1617,Dallas-Fort Worth,Colorado Springs
+1819,1334,Dallas-Fort Worth,Corpus Christi
+2248,2749,Dallas-Fort Worth,Covington
+1291,1561,Dallas-Fort Worth,Dayton
+3791,3630,Dallas-Fort Worth,Arlington
+7447,8253,Dallas-Fort Worth,Denver
+850,684,Dallas-Fort Worth,Des Moines
+2820,3714,Dallas-Fort Worth,Detroit
+3851,4327,Dallas-Fort Worth,El Paso
+3454,3250,Dallas-Fort Worth,Newark
+1877,1980,Dallas-Fort Worth,Ft. Lauderdale
+744,667,Dallas-Fort Worth,Greensboro
+182,150,Dallas-Fort Worth,Gunnison
+240,183,Dallas-Fort Worth,Hayden
+1219,734,Dallas-Fort Worth,Honolulu
+5919,5972,Dallas-Fort Worth,Houston
+1865,1262,Dallas-Fort Worth,Harlingen
+983,724,Dallas-Fort Worth,Huntsville
+3229,1985,Dallas-Fort Worth,Chantilly
+8528,9296,Dallas-Fort Worth,Houston
+2176,2117,Dallas-Fort Worth,Wichita
+1709,1741,Dallas-Fort Worth,Indianapolis
+1608,2468,Dallas-Fort Worth,Jackson
+1184,1153,Dallas-Fort Worth,Jacksonville
+1119,1504,Dallas-Fort Worth,New York
+4193,4202,Dallas-Fort Worth,Las Vegas
+6725,5739,Dallas-Fort Worth,Los Angeles
+2764,3013,Dallas-Fort Worth,Lubbock
+4900,4835,Dallas-Fort Worth,New York
+1897,1740,Dallas-Fort Worth,Long Beach
+3288,3970,Dallas-Fort Worth,Little Rock
+1811,1502,Dallas-Fort Worth,Midland
+3251,4027,Dallas-Fort Worth,Kansas City
+2987,3417,Dallas-Fort Worth,Orlando
+3137,4219,Dallas-Fort Worth,Memphis
+3214,2874,Dallas-Fort Worth,Miami
+210,385,Dallas-Fort Worth,Monroe
+504,260,Dallas-Fort Worth,Mobile
+2539,2871,Dallas-Fort Worth,Minneapolis
+4271,4573,Dallas-Fort Worth,New Orleans
+1391,1078,Dallas-Fort Worth,Oakland
+6258,7099,Dallas-Fort Worth,Oklahoma City
+1718,1352,Dallas-Fort Worth,Omaha
+3270,3075,Dallas-Fort Worth,Ontario
+8124,7962,Dallas-Fort Worth,Chicago
+718,603,Dallas-Fort Worth,Norfolk
+1436,1286,Dallas-Fort Worth,West Palm Beach
+2094,2180,Dallas-Fort Worth,Portland
+2572,2511,Dallas-Fort Worth,Philadelphia
+4248,4451,Dallas-Fort Worth,Phoenix
+2887,2441,Dallas-Fort Worth,Pittsburgh
+470,451,Dallas-Fort Worth,Palm Springs
+2491,2136,Dallas-Fort Worth,Raleigh
+475,344,Dallas-Fort Worth,Richmond
+1927,1640,Dallas-Fort Worth,Reno
+890,687,Dallas-Fort Worth,Ft. Myers
+3959,3723,Dallas-Fort Worth,San Diego
+7887,7678,Dallas-Fort Worth,San Antonio
+598,433,Dallas-Fort Worth,Savannah
+284,246,Dallas-Fort Worth,Santa Barbara
+1603,2205,Dallas-Fort Worth,Louisville
+3514,3289,Dallas-Fort Worth,Seattle
+5752,5510,Dallas-Fort Worth,San Francisco
+3404,4565,Dallas-Fort Worth,Shreveport
+2733,2148,Dallas-Fort Worth,San Jose
+619,459,Dallas-Fort Worth,San Juan
+3249,3848,Dallas-Fort Worth,Salt Lake City
+2220,1957,Dallas-Fort Worth,Sacramento
+2938,2451,Dallas-Fort Worth,Santa Ana
+516,353,Dallas-Fort Worth,Sarasota
+3386,4308,Dallas-Fort Worth,St Louis
+3151,3291,Dallas-Fort Worth,Tampa
+6145,6312,Dallas-Fort Worth,Tulsa
+2763,2374,Dallas-Fort Worth,Tucson
+227,524,Dallas-Fort Worth,Knoxville
+616,1597,Duluth,Minneapolis
+245,523,Durango,Grand Junction
+224,428,Durango,Phoenix
+99,404,Des Moines,Nashville
+457,1022,Des Moines,Cedar Rapids
+1140,1186,Des Moines,Denver
+530,909,Des Moines,Dallas-Fort Worth
+55,83,Des Moines,Sioux Falls
+223,323,Des Moines,Kansas City
+52,250,Des Moines,Memphis
+47,163,Des Moines,Milwaukee
+514,1444,Des Moines,Minneapolis
+256,687,Des Moines,Omaha
+2983,4034,Des Moines,Chicago
+391,1091,Des Moines,Phoenix
+1,1,Des Moines,Rochester
+690,2003,Des Moines,St Louis
+616,1078,Detroit,Allentown
+768,1355,Detroit,Albany
+2666,4939,Detroit,Atlanta
+49,64,Detroit,Appleton
+707,1256,Detroit,Kalamazoo
+1078,1756,Detroit,Windsor Locks
+64,168,Detroit,Birmingham
+1647,2252,Detroit,Nashville
+2014,2755,Detroit,Boston
+1083,1773,Detroit,Buffalo
+2289,3590,Detroit,Baltimore
+50,76,Detroit,Akron
+41,93,Detroit,Cedar Rapids
+1394,2111,Detroit,Cleveland
+1651,1646,Detroit,Charlotte
+896,1409,Detroit,Columbus
+1318,3286,Detroit,Covington
+83,103,Detroit,Mosinee
+62,91,Detroit,Dayton
+2075,2871,Detroit,Arlington
+2256,2687,Detroit,Denver
+3014,3756,Detroit,Dallas-Fort Worth
+66,89,Detroit,Erie
+3046,4866,Detroit,Newark
+369,1047,Detroit,Ft. Lauderdale
+684,1274,Detroit,Fort Wayne
+726,1386,Detroit,Green Bay
+1303,2119,Detroit,Grand Rapids
+530,1077,Detroit,Houston
+650,1302,Detroit,White Plains
+1261,1832,Detroit,Chantilly
+883,1205,Detroit,Houston
+1274,2719,Detroit,Indianapolis
+841,1487,Detroit,New York
+616,1544,Detroit,Lansing
+659,920,Detroit,Las Vegas
+1434,1739,Detroit,Los Angeles
+2762,4020,Detroit,New York
+1234,1981,Detroit,Saginaw
+837,1483,Detroit,Kansas City
+1056,2030,Detroit,Orlando
+435,836,Detroit,Harrisburg
+2607,3283,Detroit,Chicago
+1220,2163,Detroit,Memphis
+846,1424,Detroit,Miami
+1903,3389,Detroit,Milwaukee
+804,1335,Detroit,Madison
+2486,3531,Detroit,Minneapolis
+150,264,Detroit,New Orleans
+6249,7777,Detroit,Chicago
+549,1033,Detroit,Norfolk
+358,768,Detroit,Worcester
+504,908,Detroit,West Palm Beach
+149,245,Detroit,Portland
+2256,3633,Detroit,Philadelphia
+1272,1406,Detroit,Phoenix
+62,99,Detroit,Peoria
+2432,3953,Detroit,Pittsburgh
+639,1109,Detroit,Providence
+879,648,Detroit,Raleigh
+741,1421,Detroit,Rochester
+368,517,Detroit,Ft. Myers
+562,807,Detroit,San Diego
+672,1221,Detroit,South Bend
+560,999,Detroit,Louisville
+872,1067,Detroit,Seattle
+1847,2057,Detroit,San Francisco
+368,642,Detroit,Sarasota
+2181,3305,Detroit,St Louis
+845,1444,Detroit,Syracuse
+920,1451,Detroit,Tampa
+66,123,Detroit,Traverse City
+52,124,Eau Claire,La Crosse
+119,690,Eau Claire,Minneapolis
+2,2,Eagle,Los Angeles
+7,8,Eagle,Phoenix
+11,11,Elmira,Wilkes-Barre Scranton
+99,159,Elmira,Binghamton
+350,564,Elmira,Ithaca
+806,1369,Elmira,Pittsburgh
+422,464,Elmira,Syracuse
+1224,1964,El Paso,Albuquerque
+1075,1278,El Paso,Austin
+804,653,El Paso,Dallas
+413,862,El Paso,Denver
+2670,3839,El Paso,Dallas-Fort Worth
+1006,1362,El Paso,Houston
+326,642,El Paso,Houston
+234,312,El Paso,Las Vegas
+1614,2021,El Paso,Los Angeles
+584,581,El Paso,Lubbock
+581,914,El Paso,Midland
+511,801,El Paso,Chicago
+3259,5564,El Paso,Phoenix
+396,616,El Paso,San Diego
+1306,1571,El Paso,San Antonio
+446,497,El Paso,San Francisco
+217,155,El Paso,Tucson
+25,109,Erie,Detroit
+227,296,Erie,Ithaca
+2125,2705,Erie,Pittsburgh
+563,763,Eugene,Denver
+166,169,Eugene,Los Angeles
+123,100,Eugene,Medford
+268,565,Eugene,Portland
+1405,1571,Eugene,San Francisco
+37,337,Eugene,San Jose
+47,59,Evansville,Atlanta
+2,26,Evansville,Nashville
+1393,1613,Evansville,Dayton
+786,1252,Evansville,Indianapolis
+132,342,Evansville,Chicago
+11,76,Evansville,Louisville
+2849,4873,Newark,Atlanta
+42,66,Newark,Austin
+1650,1458,Newark,Windsor Locks
+833,945,Newark,Nashville
+6857,5484,Newark,Boston
+961,1051,Newark,Burlington
+3987,5189,Newark,Buffalo
+2491,2337,Newark,Baltimore
+1147,1378,Newark,Columbia
+474,479,Newark,Charleston
+2454,4285,Newark,Cleveland
+4188,3977,Newark,Charlotte
+1788,2155,Newark,Columbus
+1699,2641,Newark,Covington
+581,446,Newark,Daytona Beach
+1693,1939,Newark,Dayton
+2177,5559,Newark,Arlington
+3901,4120,Newark,Denver
+3203,3272,Newark,Dallas-Fort Worth
+2851,5155,Newark,Detroit
+2601,3074,Newark,Ft. Lauderdale
+1814,2195,Newark,Greensboro
+13,10,Newark,Hayden
+62,42,Newark,Honolulu
+329,534,Newark,Houston
+824,1551,Newark,Chantilly
+2570,2357,Newark,Houston
+1087,1262,Newark,Indianapolis
+1786,2147,Newark,Jacksonville
+8,2,Newark,New York
+539,438,Newark,Las Vegas
+2614,2334,Newark,Los Angeles
+6,0,Newark,New York
+639,861,Newark,Kansas City
+3416,4456,Newark,Orlando
+271,272,Newark,Chicago
+468,961,Newark,Memphis
+2731,2785,Newark,Miami
+66,158,Newark,Milwaukee
+414,462,Newark,Melbourne
+1103,2041,Newark,Minneapolis
+1167,1242,Newark,New Orleans
+6,4,Newark,Ontario
+8652,10453,Newark,Chicago
+2904,2648,Newark,Norfolk
+272,245,Newark,Worcester
+2393,2354,Newark,West Palm Beach
+78,103,Newark,Philadelphia
+366,260,Newark,Phoenix
+4448,4981,Newark,Pittsburgh
+1080,1320,Newark,Providence
+1500,1618,Newark,Portland
+2633,2592,Newark,Raleigh
+1539,2163,Newark,Richmond
+44,70,Newark,Roanoke
+2284,2763,Newark,Rochester
+999,1213,Newark,Ft. Myers
+173,74,Newark,San Diego
+120,126,Newark,San Antonio
+191,147,Newark,Seattle
+1781,1616,Newark,San Francisco
+87,64,Newark,San Jose
+1467,1393,Newark,San Juan
+830,870,Newark,Sarasota
+1116,1558,Newark,St Louis
+103,180,Newark,Charlotte Amalie
+3047,3495,Newark,Syracuse
+2197,1990,Newark,Tampa
+73,114,Newark,Utica
+2129,2205,Key West,Miami
+1258,4484,Fairbanks,Anchorage
+123,403,Fairbanks,Juneau
+4,3,Fargo,Bismarck
+180,324,Fargo,Denver
+66,137,Fargo,Sioux Falls
+717,1675,Fargo,Minneapolis
+62,192,Fargo,Chicago
+11,12,Fargo,Sioux City
+752,761,Fresno,Denver
+146,225,Fresno,Las Vegas
+1482,2034,Fresno,Los Angeles
+48,84,Fresno,Phoenix
+610,1391,Fresno,Reno
+200,107,Fresno,Stockton
+70,84,Fresno,San Francisco
+78,343,Fresno,Salt Lake City
+277,461,Fayetteville,Baltimore
+1943,3004,Fayetteville,Charlotte
+85,239,Fayetteville,Norfolk
+232,418,Kalispell,Helena
+360,404,Kalispell,Missoula
+33,56,Kalispell,Salt Lake City
+474,688,Flagstaff,Grand Canyon
+957,2405,Flagstaff,Phoenix
+2375,4900,Ft. Lauderdale,Atlanta
+288,620,Ft. Lauderdale,Windsor Locks
+337,558,Ft. Lauderdale,Nashville
+1002,1708,Ft. Lauderdale,Boston
+1495,1354,Ft. Lauderdale,Baltimore
+524,565,Ft. Lauderdale,Cleveland
+1899,1778,Ft. Lauderdale,Charlotte
+394,945,Ft. Lauderdale,Covington
+557,484,Ft. Lauderdale,Dayton
+177,325,Ft. Lauderdale,Arlington
+1396,2041,Ft. Lauderdale,Dallas-Fort Worth
+556,842,Ft. Lauderdale,Detroit
+2255,3788,Ft. Lauderdale,Newark
+439,657,Ft. Lauderdale,Chantilly
+682,967,Ft. Lauderdale,Houston
+240,397,Ft. Lauderdale,Islip
+1682,1645,Ft. Lauderdale,Jacksonville
+1254,1969,Ft. Lauderdale,New York
+2327,3795,Ft. Lauderdale,New York
+2414,3501,Ft. Lauderdale,Orlando
+1,1,Ft. Lauderdale,Harrisburg
+134,386,Ft. Lauderdale,Memphis
+605,974,Ft. Lauderdale,Miami
+60,68,Ft. Lauderdale,Minneapolis
+64,256,Ft. Lauderdale,New Orleans
+760,863,Ft. Lauderdale,Chicago
+898,1405,Ft. Lauderdale,West Palm Beach
+1775,2240,Ft. Lauderdale,Philadelphia
+1307,1331,Ft. Lauderdale,Pittsburgh
+662,896,Ft. Lauderdale,Raleigh
+32,48,Ft. Lauderdale,Ft. Myers
+1,1,Ft. Lauderdale,Savannah
+19,77,Ft. Lauderdale,Sarasota
+567,789,Ft. Lauderdale,St Louis
+2931,4266,Ft. Lauderdale,Tampa
+17,114,Flint,Cleveland
+1468,1633,Flint,Dayton
+34,175,Sioux Falls,Bismarck
+487,687,Sioux Falls,Denver
+30,58,Sioux Falls,Des Moines
+148,159,Sioux Falls,Fargo
+32,237,Sioux Falls,Moline
+594,1425,Sioux Falls,Minneapolis
+27,64,Sioux Falls,Omaha
+536,754,Sioux Falls,Chicago
+681,999,Sioux Falls,Rapid City
+39,30,Sioux Falls,Salt Lake City
+237,624,Sioux Falls,St Louis
+18,194,Sioux Falls,Sioux City
+235,434,Fort Wayne,Atlanta
+98,141,Fort Wayne,Akron
+0,0,Fort Wayne,Cleveland
+2,2,Fort Wayne,Columbus
+177,460,Fort Wayne,Covington
+780,823,Fort Wayne,Dayton
+414,1462,Fort Wayne,Detroit
+1,1,Fort Wayne,Indianapolis
+566,1200,Fort Wayne,Chicago
+202,388,Fort Wayne,Toledo
+265,508,Grand Canyon,Flagstaff
+476,807,Grand Canyon,Las Vegas
+112,250,Grand Canyon,Phoenix
+81,363,Spokane,Billings
+92,214,Spokane,Boise
+1014,1226,Spokane,Denver
+282,675,Spokane,Minneapolis
+720,910,Spokane,Chicago
+483,1512,Spokane,Portland
+2219,4700,Spokane,Seattle
+1181,1376,Spokane,San Francisco
+275,1122,Spokane,Salt Lake City
+375,968,Grand Forks,Minneapolis
+374,977,Grand Junction,Denver
+221,539,Grand Junction,Durango
+1,1,Grand Junction,Hayden
+219,462,Grand Junction,Phoenix
+320,970,Gainesville,Atlanta
+557,647,Gainesville,Charlotte
+1,0,Gainesville,Orlando
+811,1103,Gainesville,Miami
+6,7,Gainesville,Tallahassee
+6,43,Gulfport-Biloxi,Jackson
+381,1041,Gulfport-Biloxi,Memphis
+101,210,Gulfport-Biloxi,Mobile
+96,120,Green Bay,Appleton
+430,1198,Green Bay,Detroit
+11,23,Green Bay,Milwaukee
+335,1138,Green Bay,Minneapolis
+3,3,Grand Rapids,Buffalo
+1887,2132,Grand Rapids,Dayton
+709,2148,Grand Rapids,Detroit
+47,21,Grand Rapids,Lansing
+1,0,Grand Rapids,New York
+19,33,Grand Rapids,Saginaw
+139,399,Grand Rapids,Memphis
+23,64,Grand Rapids,Milwaukee
+367,929,Grand Rapids,Minneapolis
+2862,4937,Grand Rapids,Chicago
+1062,1593,Grand Rapids,Pittsburgh
+2015,3747,Greensboro,Atlanta
+84,225,Greensboro,Nashville
+418,403,Greensboro,Boston
+1673,2541,Greensboro,Baltimore
+104,162,Greensboro,Columbia
+1,0,Greensboro,Cleveland
+3815,4827,Greensboro,Charlotte
+9,26,Greensboro,Covington
+1231,1346,Greensboro,Arlington
+327,399,Greensboro,Dallas-Fort Worth
+1,0,Greensboro,Detroit
+1683,1909,Greensboro,Newark
+276,427,Greensboro,Fayetteville
+0,0,Greensboro,Greer
+73,63,Greensboro,Chantilly
+578,614,Greensboro,Wilmington
+1,1,Greensboro,Jacksonville
+1866,1973,Greensboro,New York
+193,177,Greensboro,Orlando
+67,124,Greensboro,Myrtle Beach
+1468,2546,Greensboro,Chicago
+8,18,Greensboro,Norfolk
+1,1,Greensboro,West Palm Beach
+331,467,Greensboro,Philadelphia
+675,1272,Greensboro,Pittsburgh
+713,943,Greensboro,Raleigh
+228,531,Greensboro,Richmond
+138,220,Greensboro,Louisville
+345,392,Greensboro,Tampa
+1243,3669,Greer,Atlanta
+4,14,Greer,Columbia
+86,133,Greer,Charleston
+2269,2630,Greer,Charlotte
+8,70,Greer,Greensboro
+125,373,Greer,New York
+269,1082,Greer,Memphis
+22,124,Greer,Pittsburgh
+574,1268,Greer,Raleigh
+102,239,Greer,Savannah
+65,112,Gustavus,Juneau
+411,527,Great Falls,Billings
+25,28,Great Falls,Bozeman
+11,109,Great Falls,Denver
+265,389,Great Falls,Helena
+290,534,Great Falls,Missoula
+211,616,Great Falls,Minneapolis
+524,827,Great Falls,Salt Lake City
+76,163,Gunnison,Dallas-Fort Worth
+2,3,Gunnison,Houston
+1,0,Gunnison,Omaha
+49,108,Gunnison,Chicago
+1,2,Gunnison,Salt Lake City
+294,263,Agana,Honolulu
+12,17,Agana,
+220,281,Agana,
+835,1109,Agana,
+105,112,Agana,
+104,232,Hayden,Dallas-Fort Worth
+10,12,Hayden,Newark
+1,1,Hayden,Grand Junction
+39,58,Hayden,Los Angeles
+46,66,Hayden,Minneapolis
+131,271,Hayden,Chicago
+3,29,Hayden,Phoenix
+17,21,Hayden,San Francisco
+1,1,Hayden,San Jose
+348,411,Helena,Kalispell
+9,8,Helena,Great Falls
+597,925,Helena,Salt Lake City
+4,3,Honolulu,Anchorage
+187,335,Honolulu,Atlanta
+378,498,Honolulu,Denver
+741,1044,Honolulu,Dallas-Fort Worth
+43,48,Honolulu,Newark
+174,220,Honolulu,Agana
+21,22,Honolulu,New York
+196,174,Honolulu,Kailua Kona
+24,28,Honolulu,Las Vegas
+4447,6913,Honolulu,Los Angeles
+208,267,Honolulu,Lihue
+0,0,Honolulu,Minneapolis
+1127,1478,Honolulu,Kahului
+1158,1236,Honolulu,Chicago
+20,23,Honolulu,Phoenix
+145,577,Honolulu,San Diego
+706,1011,Honolulu,Seattle
+2780,3895,Honolulu,San Francisco
+274,316,Honolulu,St Louis
+240,409,Houston,Albuquerque
+774,2037,Houston,Atlanta
+2312,2023,Houston,Austin
+85,53,Houston,Birmingham
+979,1318,Houston,Nashville
+12,36,Houston,Cleveland
+2301,2388,Houston,Corpus Christi
+77,401,Houston,Covington
+7363,6797,Houston,Dallas
+804,1183,Houston,Denver
+4212,5964,Houston,Dallas-Fort Worth
+357,1141,Houston,Detroit
+1147,1369,Houston,El Paso
+246,411,Houston,Newark
+2242,1999,Houston,Harlingen
+114,151,Houston,Chantilly
+1030,1732,Houston,Houston
+118,317,Houston,New York
+43,79,Houston,Las Vegas
+739,722,Houston,Los Angeles
+25,71,Houston,Lubbock
+560,723,Houston,New York
+488,486,Houston,Little Rock
+538,585,Houston,Midland
+568,1399,Houston,Memphis
+70,380,Houston,Miami
+3679,3869,Houston,New Orleans
+443,579,Houston,Oklahoma City
+548,770,Houston,Chicago
+1203,1569,Houston,Phoenix
+3270,3507,Houston,San Antonio
+2203,3226,Houston,St Louis
+1016,980,Houston,Tulsa
+637,1374,White Plains,Detroit
+120,105,White Plains,Chantilly
+801,935,White Plains,Chicago
+150,313,Harlingen,Austin
+845,1660,Harlingen,Dallas-Fort Worth
+1193,1316,Harlingen,Houston
+805,1766,Harlingen,Houston
+343,490,Harlingen,San Antonio
+462,1226,Huntsville,Atlanta
+706,905,Huntsville,Birmingham
+409,661,Huntsville,Nashville
+375,691,Huntsville,Dallas-Fort Worth
+314,1418,Huntsville,Memphis
+568,704,Huntsville,Chicago
+953,1240,Huntington,Charlotte
+154,231,Huntington,Charleston
+5,5,Huntington,Covington
+860,1193,Huntington,Pittsburgh
+4,0,Huntington,Roanoke
+5,2,Huntington,Louisville
+4,3,Chantilly,Albany
+1678,3004,Chantilly,Atlanta
+1155,1840,Chantilly,Windsor Locks
+272,271,Chantilly,Nashville
+1799,2213,Chantilly,Boston
+439,387,Chantilly,Burlington
+568,834,Chantilly,Buffalo
+16,15,Chantilly,Baltimore
+116,144,Chantilly,Columbia
+614,964,Chantilly,Charleston
+815,1353,Chantilly,Cleveland
+17,13,Chantilly,Charleston
+7,6,Chantilly,Arlington
+2772,2676,Chantilly,Denver
+2895,2375,Chantilly,Dallas-Fort Worth
+996,2369,Chantilly,Detroit
+1286,1986,Chantilly,Newark
+698,964,Chantilly,Ft. Lauderdale
+88,68,Chantilly,Greensboro
+188,347,Chantilly,Houston
+43,117,Chantilly,White Plains
+829,968,Chantilly,Houston
+387,550,Chantilly,Indianapolis
+50,37,Chantilly,Islip
+394,468,Chantilly,Jacksonville
+116,167,Chantilly,New York
+3421,2786,Chantilly,Los Angeles
+1538,2395,Chantilly,New York
+1448,1809,Chantilly,Orlando
+1,1,Chantilly,Harrisburg
+20,48,Chantilly,Chicago
+141,488,Chantilly,Memphis
+607,596,Chantilly,Manchester
+795,1041,Chantilly,Miami
+204,772,Chantilly,Minneapolis
+831,1035,Chantilly,New Orleans
+2976,3101,Chantilly,Chicago
+871,1332,Chantilly,Norfolk
+487,660,Chantilly,West Palm Beach
+124,334,Chantilly,Newport News
+655,1079,Chantilly,Philadelphia
+347,289,Chantilly,Phoenix
+917,2233,Chantilly,Pittsburgh
+483,643,Chantilly,Providence
+591,608,Chantilly,Portland
+833,1360,Chantilly,Raleigh
+0,4,Chantilly,Richmond
+584,959,Chantilly,Rochester
+350,358,Chantilly,Ft. Myers
+156,130,Chantilly,San Diego
+348,382,Chantilly,Savannah
+99,165,Chantilly,Louisville
+493,443,Chantilly,Seattle
+1920,1670,Chantilly,San Francisco
+390,281,Chantilly,San Juan
+295,834,Chantilly,Salt Lake City
+74,68,Chantilly,Sarasota
+375,894,Chantilly,St Louis
+245,339,Chantilly,Syracuse
+1062,1121,Chantilly,Tampa
+682,446,Houston,Albuquerque
+2707,3641,Houston,Atlanta
+2336,1857,Houston,Austin
+741,791,Houston,Nashville
+1234,857,Houston,Boston
+764,557,Houston,Baton Rouge
+944,1217,Houston,Baltimore
+1029,1223,Houston,Cleveland
+1314,1858,Houston,Charlotte
+112,76,Houston,Columbus
+966,692,Houston,Corpus Christi
+209,852,Houston,Covington
+614,954,Houston,Dallas
+1429,2339,Houston,Arlington
+3847,3598,Houston,Denver
+6448,7685,Houston,Dallas-Fort Worth
+821,599,Houston,Detroit
+606,359,Houston,El Paso
+2200,2762,Houston,Newark
+874,727,Houston,Ft. Lauderdale
+0,1,Houston,Gunnison
+866,1757,Houston,Houston
+1200,1117,Houston,Harlingen
+849,769,Houston,Chantilly
+221,105,Houston,Wichita
+497,392,Houston,Indianapolis
+523,435,Houston,Jacksonville
+518,738,Houston,New York
+690,290,Houston,Las Vegas
+3085,2787,Houston,Los Angeles
+608,465,Houston,Lafayette
+2065,2496,Houston,New York
+71,59,Houston,Midland
+583,455,Houston,Kansas City
+1206,1207,Houston,Orlando
+480,1207,Houston,Memphis
+1416,1058,Houston,McAllen
+1938,2099,Houston,Miami
+82,52,Houston,Mobile
+821,676,Houston,Minneapolis
+2472,3196,Houston,New Orleans
+433,358,Houston,Oklahoma City
+271,153,Houston,Omaha
+10,10,Houston,Ontario
+3924,5094,Houston,Chicago
+347,215,Houston,West Palm Beach
+1527,1803,Houston,Philadelphia
+1123,763,Houston,Phoenix
+1501,1462,Houston,Pittsburgh
+599,322,Houston,Pensacola
+237,179,Houston,Ft. Myers
+1181,806,Houston,San Diego
+2471,2099,Houston,San Antonio
+503,532,Houston,Seattle
+2803,2751,Houston,San Francisco
+245,136,Houston,San Jose
+211,707,Houston,Salt Lake City
+125,61,Houston,Santa Ana
+1122,2062,Houston,St Louis
+1093,933,Houston,Tampa
+323,218,Houston,Tulsa
+185,146,Houston,Tucson
+133,401,Wichita,Colorado Springs
+1,1,Wichita,Casper
+46,93,Wichita,Arlington
+1313,2457,Wichita,Denver
+802,1666,Wichita,Dallas-Fort Worth
+103,262,Wichita,Houston
+354,370,Wichita,Las Vegas
+92,156,Wichita,New York
+76,85,Wichita,Little Rock
+146,246,Wichita,Lincoln
+282,424,Wichita,Kansas City
+345,1119,Wichita,Memphis
+31,144,Wichita,Oklahoma City
+1146,1645,Wichita,Chicago
+540,1277,Wichita,Phoenix
+442,635,Wichita,Pittsburgh
+1,1,Wichita,San Antonio
+74,99,Wichita,Springfield
+655,1806,Wichita,St Louis
+49,72,Wichita,Tulsa
+0,0,Idaho Falls,Jackson
+151,159,Idaho Falls,Chicago
+696,1792,Idaho Falls,Salt Lake City
+622,972,Wilmington,Baltimore
+2129,2921,Wilmington,Charlotte
+436,548,Wilmington,Greensboro
+3,4,Wilmington,Norfolk
+52,88,Wilmington,Raleigh
+816,2603,Indianapolis,Atlanta
+154,407,Indianapolis,Nashville
+304,440,Indianapolis,Baltimore
+1,1,Indianapolis,Akron
+1268,2370,Indianapolis,Cleveland
+1314,1384,Indianapolis,Charlotte
+1482,2274,Indianapolis,Columbus
+859,2421,Indianapolis,Covington
+1,1,Indianapolis,Dayton
+1546,1721,Indianapolis,Arlington
+970,1513,Indianapolis,Denver
+438,400,Indianapolis,Detroit
+1025,1727,Indianapolis,Dallas-Fort Worth
+1251,3222,Indianapolis,Detroit
+1033,1370,Indianapolis,Evansville
+1042,1718,Indianapolis,Newark
+2,2,Indianapolis,Fort Wayne
+408,394,Indianapolis,Chantilly
+480,647,Indianapolis,Houston
+325,444,Indianapolis,New York
+500,430,Indianapolis,Las Vegas
+1052,905,Indianapolis,Los Angeles
+1173,1383,Indianapolis,New York
+111,297,Indianapolis,Kansas City
+742,769,Indianapolis,Orlando
+582,1510,Indianapolis,Memphis
+514,747,Indianapolis,Milwaukee
+304,991,Indianapolis,Minneapolis
+3125,4313,Indianapolis,Chicago
+1389,1579,Indianapolis,Philadelphia
+1062,926,Indianapolis,Phoenix
+2670,2336,Indianapolis,Pittsburgh
+1,1,Indianapolis,Raleigh
+1223,1554,Indianapolis,Louisville
+775,714,Indianapolis,San Francisco
+1588,2183,Indianapolis,St Louis
+595,607,Indianapolis,Tampa
+429,550,Kinston,Baltimore
+791,813,Kinston,Charlotte
+1,1,Kinston,Wilmington
+565,650,Islip,Albany
+91,146,Islip,Windsor Locks
+1085,1343,Islip,Baltimore
+626,761,Islip,Arlington
+0,1,Islip,Newark
+102,367,Islip,Ft. Lauderdale
+26,63,Islip,Chantilly
+0,1,Islip,New York
+123,283,Islip,Orlando
+816,812,Islip,Chicago
+1330,1905,Islip,Pittsburgh
+43,69,Islip,Providence
+721,1051,Islip,Raleigh
+532,536,Islip,Syracuse
+67,62,Ithaca,Binghamton
+0,0,Ithaca,Elmira
+170,304,Ithaca,Erie
+5,9,Ithaca,Harrisburg
+438,1234,Ithaca,Pittsburgh
+525,340,Ithaca,Syracuse
+43,47,Jackson,Denver
+329,482,Jackson,Idaho Falls
+564,1207,Jackson,Salt Lake City
+968,2125,Jackson,Atlanta
+475,929,Jackson,Birmingham
+364,778,Jackson,Nashville
+3,3,Jackson,Baton Rouge
+138,793,Jackson,Covington
+1545,3031,Jackson,Dallas-Fort Worth
+24,32,Jackson,Gulfport-Biloxi
+1,2,Jackson,Houston
+520,1488,Jackson,Memphis
+39,41,Jackson,Monroe
+194,215,Jackson,Mobile
+49,59,Jackson,New Orleans
+55,87,Jackson,Chicago
+1,0,Jackson,San Antonio
+203,338,Jackson,Shreveport
+2152,5234,Jacksonville,Atlanta
+1051,1157,Jacksonville,Baltimore
+354,453,Jacksonville,Charleston
+2305,2628,Jacksonville,Charlotte
+24,45,Jacksonville,Covington
+593,830,Jacksonville,Daytona Beach
+868,1251,Jacksonville,Dallas-Fort Worth
+1194,1833,Jacksonville,Newark
+1700,2133,Jacksonville,Ft. Lauderdale
+1,1,Jacksonville,Gainesville
+156,264,Jacksonville,Chantilly
+502,720,Jacksonville,Houston
+13,34,Jacksonville,Orlando
+2223,2348,Jacksonville,Miami
+15,34,Jacksonville,New Orleans
+473,718,Jacksonville,Chicago
+323,291,Jacksonville,Norfolk
+1,1,Jacksonville,West Palm Beach
+750,844,Jacksonville,Philadelphia
+420,347,Jacksonville,Pittsburgh
+405,596,Jacksonville,Raleigh
+0,0,Jacksonville,Ft. Myers
+490,735,Jacksonville,Savannah
+259,754,Jacksonville,St Louis
+1741,1535,Jacksonville,Tampa
+1,1,New York,Albany
+973,992,New York,Atlanta
+247,498,New York,Windsor Locks
+286,256,New York,Nashville
+2177,2846,New York,Boston
+670,730,New York,Buffalo
+1267,1143,New York,Baltimore
+922,1240,New York,Cleveland
+695,584,New York,Charlotte
+284,370,New York,Columbus
+519,814,New York,Covington
+28,98,New York,Daytona Beach
+633,522,New York,Dayton
+2150,3155,New York,Arlington
+838,735,New York,Denver
+1373,1406,New York,Dallas-Fort Worth
+1411,1780,New York,Detroit
+4,4,New York,Newark
+1070,1825,New York,Ft. Lauderdale
+19,18,New York,Honolulu
+214,350,New York,Houston
+13,11,New York,White Plains
+79,73,New York,Chantilly
+687,694,New York,Houston
+361,378,New York,Indianapolis
+0,0,New York,Islip
+853,840,New York,Las Vegas
+5499,5175,New York,Los Angeles
+10,0,New York,New York
+1434,2278,New York,Orlando
+34,49,New York,Memphis
+2873,3527,New York,Miami
+836,967,New York,Minneapolis
+690,768,New York,New Orleans
+1192,1403,New York,Chicago
+674,619,New York,Norfolk
+172,495,New York,West Palm Beach
+746,910,New York,Philadelphia
+1529,1279,New York,Phoenix
+1619,2225,New York,Pittsburgh
+731,998,New York,Raleigh
+480,652,New York,Richmond
+518,504,New York,Rochester
+140,220,New York,Ft. Myers
+775,584,New York,San Diego
+1,0,New York,San Antonio
+687,858,New York,Seattle
+3748,3854,New York,San Francisco
+3732,3788,New York,San Juan
+424,846,New York,Salt Lake City
+36,56,New York,Sarasota
+1288,1059,New York,St Louis
+591,820,New York,Charlotte Amalie
+100,85,New York,Christiansted
+870,778,New York,Syracuse
+1209,1789,New York,Tampa
+0,0,New York,Tucson
+106,194,New York,Utica
+471,1053,Juneau,Anchorage
+284,353,Juneau,Fairbanks
+45,93,Juneau,Gustavus
+146,356,Juneau,Ketchikan
+231,345,Juneau,Petersburg
+528,987,Juneau,Seattle
+469,897,Juneau,Sitka
+276,473,Juneau,Yakutat
+123,107,Kailua Kona,Honolulu
+77,153,Kailua Kona,Los Angeles
+26,32,Kailua Kona,Kahului
+254,317,Kailua Kona,San Francisco
+171,249,Ketchikan,Juneau
+675,1255,Ketchikan,Seattle
+329,544,Ketchikan,Sitka
+216,352,Ketchikan,Wrangell
+154,630,Lansing,Kalamazoo
+120,489,Lansing,Cleveland
+1122,1244,Lansing,Dayton
+416,1333,Lansing,Detroit
+1728,2023,Las Vegas,Albuquerque
+434,625,Las Vegas,Atlanta
+71,122,Las Vegas,Austin
+390,807,Las Vegas,Boise
+1894,3219,Las Vegas,Burbank
+137,113,Las Vegas,Baltimore
+286,216,Las Vegas,Cleveland
+166,350,Las Vegas,Colorado Springs
+2309,3780,Las Vegas,Denver
+2451,3521,Las Vegas,Dallas-Fort Worth
+419,798,Las Vegas,Detroit
+376,543,Las Vegas,El Paso
+410,329,Las Vegas,Newark
+189,287,Las Vegas,Fresno
+400,837,Las Vegas,Grand Canyon
+22,25,Las Vegas,Honolulu
+34,20,Las Vegas,Houston
+376,624,Las Vegas,Houston
+354,344,Las Vegas,Wichita
+375,320,Las Vegas,Indianapolis
+848,652,Las Vegas,New York
+8072,11255,Las Vegas,Los Angeles
+26,150,Las Vegas,Lubbock
+248,488,Las Vegas,Long Beach
+37,68,Las Vegas,Lincoln
+323,541,Las Vegas,Kansas City
+0,4,Las Vegas,Chicago
+217,398,Las Vegas,Memphis
+973,1295,Las Vegas,Minneapolis
+851,1745,Las Vegas,Oakland
+498,799,Las Vegas,Omaha
+797,1309,Las Vegas,Ontario
+3200,3852,Las Vegas,Chicago
+158,342,Las Vegas,Portland
+158,138,Las Vegas,Philadelphia
+6245,7652,Las Vegas,Phoenix
+289,421,Las Vegas,Pittsburgh
+147,215,Las Vegas,Palm Springs
+1945,3693,Las Vegas,Reno
+3621,5017,Las Vegas,San Diego
+560,494,Las Vegas,San Antonio
+69,95,Las Vegas,Santa Barbara
+479,768,Las Vegas,Seattle
+2349,3297,Las Vegas,San Francisco
+722,1994,Las Vegas,San Jose
+1441,3490,Las Vegas,Salt Lake City
+509,1322,Las Vegas,Sacramento
+1190,2663,Las Vegas,Santa Ana
+1169,1403,Las Vegas,St Louis
+310,410,Las Vegas,Tucson
+33,92,Las Vegas,Yuma
+2113,2473,Los Angeles,Albuquerque
+2754,3178,Los Angeles,Atlanta
+215,270,Los Angeles,Austin
+34,27,Los Angeles,Windsor Locks
+586,459,Los Angeles,Nashville
+37,48,Los Angeles,Boise
+1861,1502,Los Angeles,Boston
+0,1,Los Angeles,Burbank
+1242,835,Los Angeles,Baltimore
+1467,1149,Los Angeles,Concord
+1739,1364,Los Angeles,Cleveland
+1585,933,Los Angeles,Charlotte
+800,1223,Los Angeles,Covington
+1269,703,Los Angeles,Dayton
+4616,5555,Los Angeles,Denver
+5095,5417,Los Angeles,Dallas-Fort Worth
+1450,1696,Los Angeles,Detroit
+1,1,Los Angeles,Eagle
+1671,1913,Los Angeles,El Paso
+23,14,Los Angeles,Eugene
+2285,2312,Los Angeles,Newark
+2201,2654,Los Angeles,Fresno
+72,33,Los Angeles,Hayden
+7435,5691,Los Angeles,Honolulu
+681,949,Los Angeles,Houston
+2658,2412,Los Angeles,Chantilly
+2165,3040,Los Angeles,Houston
+1276,791,Los Angeles,Indianapolis
+6097,5415,Los Angeles,New York
+141,99,Los Angeles,Kailua Kona
+9519,10899,Los Angeles,Las Vegas
+0,0,Los Angeles,Los Angeles
+1,1,Los Angeles,Long Beach
+556,823,Los Angeles,Kansas City
+553,769,Los Angeles,Orlando
+996,969,Los Angeles,Memphis
+369,287,Los Angeles,Medford
+1368,1464,Los Angeles,Miami
+207,293,Los Angeles,Milwaukee
+1207,1128,Los Angeles,Monterey
+1771,2411,Los Angeles,Minneapolis
+614,872,Los Angeles,New Orleans
+4547,4552,Los Angeles,Oakland
+824,706,Los Angeles,Kahului
+105,245,Los Angeles,Oklahoma City
+113,189,Los Angeles,Ontario
+7280,6754,Los Angeles,Chicago
+2037,3729,Los Angeles,Portland
+805,884,Los Angeles,Philadelphia
+10476,10499,Los Angeles,Phoenix
+2782,1667,Los Angeles,Pittsburgh
+1,1,Los Angeles,Palm Springs
+3,9,Los Angeles,Redmond
+1203,1181,Los Angeles,Reno
+8208,9297,Los Angeles,San Diego
+701,550,Los Angeles,San Antonio
+1,2,Los Angeles,Santa Barbara
+1058,808,Los Angeles,Stockton
+6056,8267,Los Angeles,Seattle
+20094,21658,Los Angeles,San Francisco
+6716,8408,Los Angeles,San Jose
+29,39,Los Angeles,San Juan
+1998,3997,Los Angeles,Salt Lake City
+3986,4981,Los Angeles,Sacramento
+21,16,Los Angeles,Santa Ana
+1479,1322,Los Angeles,St Louis
+2,0,Los Angeles,Hailey
+619,301,Los Angeles,Tampa
+2998,2768,Los Angeles,Tucson
+453,555,Lubbock,Albuquerque
+182,444,Lubbock,Amarillo
+237,499,Lubbock,Austin
+1443,2219,Lubbock,Dallas
+1109,2603,Lubbock,Dallas-Fort Worth
+423,690,Lubbock,El Paso
+12,31,Lubbock,Houston
+51,104,Lubbock,Las Vegas
+320,629,Lubbock,Midland
+232,472,Lubbock,Phoenix
+1055,2243,Lexington,Atlanta
+164,383,Lexington,Nashville
+1190,1197,Lexington,Charlotte
+239,312,Lexington,Charleston
+458,1394,Lexington,Covington
+89,139,Lexington,Dayton
+232,333,Lexington,Arlington
+4,0,Lexington,Huntington
+291,375,Lexington,Chicago
+1161,1192,Lexington,Pittsburgh
+4,9,Lexington,Roanoke
+350,1354,Lexington,Louisville
+56,367,Lexington,St Louis
+44,72,Lexington,Bristol
+140,113,Lafayette,Baton Rouge
+357,729,Lafayette,Houston
+3612,6264,New York,Atlanta
+49,101,New York,Windsor Locks
+867,933,New York,Nashville
+3827,10273,New York,Boston
+1028,985,New York,Burlington
+3113,2807,New York,Buffalo
+3774,3074,New York,Baltimore
+334,386,New York,Charlottesville
+110,247,New York,Charleston
+3056,3435,New York,Cleveland
+4791,4069,New York,Charlotte
+1428,1623,New York,Columbus
+415,362,New York,Charleston
+862,1938,New York,Covington
+15,22,New York,Daytona Beach
+2446,2151,New York,Dayton
+2175,8692,New York,Arlington
+2748,2660,New York,Denver
+4180,4261,New York,Dallas-Fort Worth
+2468,3921,New York,Detroit
+9,5,New York,Newark
+2400,3223,New York,Ft. Lauderdale
+2567,2188,New York,Greensboro
+186,433,New York,Greer
+719,716,New York,Houston
+1380,2150,New York,Chantilly
+2307,2301,New York,Houston
+105,155,New York,Wichita
+1107,1141,New York,Indianapolis
+11,1,New York,New York
+259,426,New York,Kansas City
+1834,3027,New York,Orlando
+918,1599,New York,Memphis
+2801,4150,New York,Miami
+509,923,New York,Milwaukee
+1888,2715,New York,Minneapolis
+886,1241,New York,New Orleans
+65,64,New York,Omaha
+8396,10089,New York,Chicago
+2896,2295,New York,Norfolk
+2302,3070,New York,West Palm Beach
+64,113,New York,Philadelphia
+4327,3597,New York,Pittsburgh
+7,6,New York,Providence
+543,951,New York,Portland
+1369,1887,New York,Raleigh
+2172,2158,New York,Richmond
+519,427,New York,Roanoke
+2579,2506,New York,Rochester
+256,403,New York,Ft. Myers
+22,188,New York,Savannah
+830,799,New York,Louisville
+0,1,New York,San Juan
+39,48,New York,Sarasota
+2398,2205,New York,St Louis
+3547,3243,New York,Syracuse
+1419,2541,New York,Tampa
+148,202,Long Beach,Burbank
+303,351,Long Beach,Denver
+940,1953,Long Beach,Dallas-Fort Worth
+348,480,Long Beach,Las Vegas
+851,1300,Long Beach,Oakland
+5,5,Long Beach,Ontario
+1089,1375,Long Beach,Chicago
+6,40,Long Beach,Portland
+592,852,Long Beach,Phoenix
+0,0,Long Beach,Palm Springs
+20,94,Long Beach,San Diego
+77,83,Long Beach,Santa Barbara
+2093,2197,Long Beach,San Francisco
+260,442,Long Beach,San Jose
+37,158,Long Beach,Salt Lake City
+174,224,Long Beach,St Louis
+82,133,Lihue,Honolulu
+59,95,Lihue,Kahului
+522,1421,Little Rock,Atlanta
+373,620,Little Rock,Nashville
+652,1005,Little Rock,Covington
+923,1343,Little Rock,Dallas
+2048,3375,Little Rock,Dallas-Fort Worth
+1,0,Little Rock,Newark
+134,218,Little Rock,Houston
+1,1,Little Rock,Huntsville
+54,97,Little Rock,Wichita
+1162,2865,Little Rock,Memphis
+0,0,Little Rock,New Orleans
+56,49,Little Rock,Oklahoma City
+405,557,Little Rock,Chicago
+1,1,Little Rock,San Antonio
+30,22,Little Rock,Springfield
+0,0,Little Rock,Shreveport
+1044,2533,Little Rock,St Louis
+488,693,Little Rock,Tulsa
+0,1,Lincoln,Cedar Rapids
+733,878,Lincoln,Denver
+20,44,Lincoln,Sioux Falls
+132,267,Lincoln,Wichita
+22,50,Lincoln,Las Vegas
+66,107,Lincoln,Omaha
+1250,1445,Lincoln,Chicago
+276,498,Lincoln,Phoenix
+316,1020,Lincoln,St Louis
+735,1169,Lincoln,Sioux City
+19,49,La Crosse,Eau Claire
+437,1569,La Crosse,Minneapolis
+68,69,Lynchburg,Baltimore
+493,481,Lynchburg,Charlottesville
+787,1182,Lynchburg,Charlotte
+1,1,Lynchburg,Roanoke
+425,594,Midland,Albuquerque
+78,73,Midland,Amarillo
+374,384,Midland,Austin
+1313,1275,Midland,Dallas
+807,1332,Midland,Dallas-Fort Worth
+293,375,Midland,El Paso
+241,366,Midland,Houston
+26,68,Midland,Houston
+443,781,Midland,Lubbock
+341,700,Midland,Phoenix
+80,436,Saginaw,Cleveland
+449,1932,Saginaw,Detroit
+5,35,Saginaw,Grand Rapids
+932,1311,Saginaw,Chicago
+180,266,Kansas City,Albuquerque
+1529,3288,Kansas City,Atlanta
+261,352,Kansas City,Nashville
+180,234,Kansas City,Boston
+477,493,Kansas City,Baltimore
+74,94,Kansas City,Cleveland
+610,648,Kansas City,Charlotte
+237,1321,Kansas City,Covington
+244,440,Kansas City,Arlington
+2297,3354,Kansas City,Denver
+2488,4144,Kansas City,Dallas-Fort Worth
+53,258,Kansas City,Des Moines
+452,1364,Kansas City,Detroit
+542,892,Kansas City,Newark
+509,817,Kansas City,Houston
+550,642,Kansas City,Wichita
+142,216,Kansas City,Indianapolis
+532,749,Kansas City,Las Vegas
+617,737,Kansas City,Los Angeles
+251,448,Kansas City,New York
+43,170,Kansas City,Orlando
+2349,3348,Kansas City,Chicago
+551,1501,Kansas City,Memphis
+88,143,Kansas City,Miami
+59,197,Kansas City,Milwaukee
+144,242,Kansas City,Moline
+526,1483,Kansas City,Minneapolis
+1246,1869,Kansas City,Oklahoma City
+232,396,Kansas City,Omaha
+3822,4598,Kansas City,Chicago
+129,186,Kansas City,Philadelphia
+1688,2525,Kansas City,Phoenix
+1050,1175,Kansas City,Pittsburgh
+151,211,Kansas City,San Diego
+191,256,Kansas City,Seattle
+652,670,Kansas City,San Francisco
+243,1412,Kansas City,Salt Lake City
+2575,4077,Kansas City,St Louis
+1148,1620,Kansas City,Tulsa
+3254,5870,Orlando,Atlanta
+458,898,Orlando,Windsor Locks
+114,164,Orlando,Birmingham
+660,784,Orlando,Nashville
+1122,2077,Orlando,Boston
+2374,2557,Orlando,Baltimore
+1010,1768,Orlando,Cleveland
+2978,3218,Orlando,Charlotte
+126,291,Orlando,Columbus
+745,1439,Orlando,Covington
+0,1,Orlando,Daytona Beach
+1588,1603,Orlando,Dayton
+776,1941,Orlando,Arlington
+904,1000,Orlando,Denver
+2013,3444,Orlando,Dallas-Fort Worth
+790,1755,Orlando,Detroit
+2759,4701,Orlando,Newark
+2078,2872,Orlando,Ft. Lauderdale
+1,1,Orlando,Gainesville
+242,186,Orlando,Greensboro
+1,0,Orlando,Greer
+789,1457,Orlando,Chantilly
+1261,1528,Orlando,Houston
+566,707,Orlando,Indianapolis
+149,229,Orlando,Islip
+40,68,Orlando,Jacksonville
+1565,2118,Orlando,New York
+499,782,Orlando,Los Angeles
+2123,3535,Orlando,New York
+77,129,Orlando,Kansas City
+88,124,Orlando,Chicago
+449,1507,Orlando,Memphis
+4951,7978,Orlando,Miami
+30,43,Orlando,Milwaukee
+42,197,Orlando,Melbourne
+350,744,Orlando,Minneapolis
+751,1604,Orlando,New Orleans
+2079,2987,Orlando,Chicago
+31,71,Orlando,Norfolk
+2311,3276,Orlando,West Palm Beach
+2399,3528,Orlando,Philadelphia
+1,1,Orlando,St. Petersburg
+1917,2904,Orlando,Pittsburgh
+1057,1131,Orlando,Pensacola
+72,79,Orlando,Providence
+963,1335,Orlando,Raleigh
+1074,1912,Orlando,Ft. Myers
+553,770,Orlando,San Juan
+255,440,Orlando,Salt Lake City
+575,950,Orlando,Sarasota
+1754,1786,Orlando,St Louis
+533,403,Orlando,Syracuse
+1330,1735,Orlando,Tallahassee
+1265,2079,Orlando,Tampa
+689,762,Harrisburg,Boston
+69,322,Harrisburg,Baltimore
+159,996,Harrisburg,Detroit
+1,1,Harrisburg,Ft. Lauderdale
+1,1,Harrisburg,Chantilly
+8,12,Harrisburg,Ithaca
+1453,2113,Harrisburg,Chicago
+2,3,Harrisburg,Philadelphia
+2467,2845,Harrisburg,Pittsburgh
+178,755,Harrisburg,St Louis
+1799,2335,Chicago,Nashville
+461,1300,Chicago,Cleveland
+857,1203,Chicago,Denver
+1779,2409,Chicago,Detroit
+2734,4616,Chicago,Detroit
+136,351,Chicago,Evansville
+200,271,Chicago,Newark
+24,22,Chicago,Chantilly
+2,5,Chicago,Las Vegas
+2598,2673,Chicago,Kansas City
+68,92,Chicago,Orlando
+77,236,Chicago,Memphis
+599,1696,Chicago,Minneapolis
+5,12,Chicago,Phoenix
+906,1549,Chicago,Pittsburgh
+3334,5306,Chicago,St Louis
+2829,5202,Memphis,Atlanta
+559,1152,Memphis,Austin
+955,1845,Memphis,Birmingham
+2014,2852,Memphis,Nashville
+732,860,Memphis,Boston
+549,1131,Memphis,Baton Rouge
+117,248,Memphis,Baltimore
+421,805,Memphis,Chattanooga
+199,368,Memphis,Cleveland
+1201,1099,Memphis,Charlotte
+261,568,Memphis,Columbus
+539,1386,Memphis,Covington
+1043,1463,Memphis,Arlington
+632,859,Memphis,Denver
+2433,3892,Memphis,Dallas-Fort Worth
+142,284,Memphis,Des Moines
+1580,2029,Memphis,Detroit
+686,1140,Memphis,Newark
+255,462,Memphis,Ft. Lauderdale
+652,1047,Memphis,Gulfport-Biloxi
+205,418,Memphis,Grand Rapids
+384,845,Memphis,Greer
+698,1207,Memphis,Houston
+742,1187,Memphis,Huntsville
+304,436,Memphis,Chantilly
+654,924,Memphis,Houston
+660,1237,Memphis,Wichita
+734,1278,Memphis,Indianapolis
+1008,1581,Memphis,Jackson
+39,73,Memphis,New York
+288,424,Memphis,Las Vegas
+1175,1434,Memphis,Los Angeles
+1182,1380,Memphis,New York
+1720,2799,Memphis,Little Rock
+873,1375,Memphis,Kansas City
+879,1188,Memphis,Orlando
+113,209,Memphis,Chicago
+347,616,Memphis,Montgomery
+824,1158,Memphis,Miami
+903,1426,Memphis,Milwaukee
+587,991,Memphis,Mobile
+24,46,Memphis,Madison
+1906,2492,Memphis,Minneapolis
+1179,1620,Memphis,New Orleans
+618,1157,Memphis,Oklahoma City
+388,598,Memphis,Omaha
+2906,3900,Memphis,Chicago
+265,463,Memphis,West Palm Beach
+204,275,Memphis,Panama City
+681,958,Memphis,Philadelphia
+644,833,Memphis,Phoenix
+577,896,Memphis,Pittsburgh
+470,575,Memphis,Ft. Myers
+343,671,Memphis,San Antonio
+576,1078,Memphis,Louisville
+350,476,Memphis,Seattle
+921,991,Memphis,San Francisco
+611,1322,Memphis,Shreveport
+32,32,Memphis,Santa Ana
+250,428,Memphis,Sarasota
+1175,2501,Memphis,St Louis
+840,1228,Memphis,Tampa
+291,104,Memphis,Bristol
+645,1068,Memphis,Tulsa
+54,69,Memphis,Tucson
+788,1197,Memphis,Knoxville
+796,1164,Memphis,Valparaiso
+1187,2225,McAllen,Houston
+62,59,Medford,Denver
+270,249,Medford,Eugene
+41,76,Medford,Los Angeles
+137,203,Medford,Redmond
+1228,1196,Medford,San Francisco
+926,2098,Montgomery,Atlanta
+237,366,Montgomery,Baton Rouge
+288,747,Montgomery,Memphis
+303,511,Montgomery,Monroe
+24,23,Montgomery,Panama City
+95,112,Manchester,Albany
+102,100,Manchester,Bangor
+200,214,Manchester,Burlington
+632,820,Manchester,Chantilly
+809,802,Manchester,Chicago
+922,948,Manchester,Philadelphia
+827,954,Manchester,Pittsburgh
+4191,6701,Miami,Atlanta
+1,1,Miami,Windsor Locks
+444,582,Miami,Nashville
+1438,2086,Miami,Boston
+1575,1094,Miami,Baltimore
+124,124,Miami,Charleston
+376,542,Miami,Cleveland
+2174,2172,Miami,Charlotte
+566,1033,Miami,Covington
+1029,1017,Miami,Dayton
+1481,2565,Miami,Arlington
+740,853,Miami,Denver
+1878,2601,Miami,Dallas-Fort Worth
+669,1249,Miami,Detroit
+2503,2896,Miami,Newark
+2018,2711,Miami,Key West
+1317,1916,Miami,Ft. Lauderdale
+847,959,Miami,Gainesville
+136,432,Miami,Houston
+668,749,Miami,Chantilly
+1841,2423,Miami,Houston
+1940,2495,Miami,Jacksonville
+2771,3406,Miami,New York
+1425,1771,Miami,Los Angeles
+3085,4313,Miami,New York
+50,117,Miami,Kansas City
+4533,6945,Miami,Orlando
+499,1195,Miami,Memphis
+62,68,Miami,Milwaukee
+487,681,Miami,Minneapolis
+924,1377,Miami,New Orleans
+2320,2855,Miami,Chicago
+156,237,Miami,West Palm Beach
+1885,2417,Miami,Philadelphia
+0,1,Miami,Phoenix
+1151,1166,Miami,Pittsburgh
+746,852,Miami,Raleigh
+122,156,Miami,Ft. Myers
+374,508,Miami,San Francisco
+2202,2775,Miami,San Juan
+2,26,Miami,Sarasota
+1322,1541,Miami,St Louis
+295,477,Miami,Charlotte Amalie
+250,310,Miami,Christiansted
+1222,1464,Miami,Tallahassee
+4055,5955,Miami,Tampa
+546,1299,Milwaukee,Atlanta
+501,631,Milwaukee,Nashville
+344,475,Milwaukee,Boston
+501,1006,Milwaukee,Cleveland
+78,259,Milwaukee,Covington
+92,324,Milwaukee,Mosinee
+219,360,Milwaukee,Arlington
+863,1013,Milwaukee,Denver
+59,168,Milwaukee,Des Moines
+1403,2644,Milwaukee,Detroit
+73,80,Milwaukee,Newark
+23,38,Milwaukee,Green Bay
+65,91,Milwaukee,Grand Rapids
+382,956,Milwaukee,Indianapolis
+279,444,Milwaukee,Los Angeles
+661,1261,Milwaukee,New York
+63,206,Milwaukee,Kansas City
+58,92,Milwaukee,Orlando
+664,1651,Milwaukee,Memphis
+33,126,Milwaukee,Miami
+249,738,Milwaukee,Madison
+1074,2239,Milwaukee,Minneapolis
+126,309,Milwaukee,Omaha
+2927,4973,Milwaukee,Chicago
+216,368,Milwaukee,Philadelphia
+93,137,Milwaukee,Phoenix
+603,1271,Milwaukee,Pittsburgh
+1,1,Milwaukee,Rochester
+59,131,Milwaukee,Seattle
+280,336,Milwaukee,San Francisco
+1065,2256,Milwaukee,St Louis
+23,65,Milwaukee,Tampa
+593,2226,Melbourne,Atlanta
+261,428,Melbourne,Charlotte
+440,553,Melbourne,Daytona Beach
+362,617,Melbourne,Newark
+0,0,Melbourne,Jacksonville
+40,74,Melbourne,New York
+11,55,Melbourne,New York
+12,78,Melbourne,Orlando
+42,214,Melbourne,Miami
+0,0,Melbourne,West Palm Beach
+214,507,Melbourne,Raleigh
+11,57,Melbourne,Tampa
+283,1069,Moline,Cedar Rapids
+582,686,Moline,Denver
+58,96,Moline,Sioux Falls
+7,20,Moline,Lincoln
+135,247,Moline,Kansas City
+116,409,Moline,Minneapolis
+168,603,Moline,Omaha
+234,310,Moline,Peoria
+417,1515,Moline,St Louis
+65,121,Moline,Sioux City
+339,443,Monroe,Atlanta
+692,912,Monroe,Dallas-Fort Worth
+162,332,Monroe,Jackson
+173,376,Monroe,Pensacola
+508,987,Monroe,Shreveport
+1578,4055,Mobile,Atlanta
+568,777,Mobile,Nashville
+1,1,Mobile,Baton Rouge
+287,385,Mobile,Dallas-Fort Worth
+4,24,Mobile,Gulfport-Biloxi
+23,69,Mobile,Houston
+194,286,Mobile,Jackson
+430,1363,Mobile,Memphis
+239,460,Mobile,Monroe
+27,14,Mobile,Pensacola
+484,1059,Mobile,Shreveport
+298,613,Minot,Bismarck
+173,733,Minot,Minneapolis
+664,945,Monterey,Los Angeles
+795,1028,Monterey,San Francisco
+68,104,Madison,Denver
+412,1260,Madison,Detroit
+27,52,Madison,Grand Rapids
+6,58,Madison,Memphis
+118,728,Madison,Milwaukee
+458,1473,Madison,Minneapolis
+723,1297,Madison,Chicago
+274,1045,Madison,St Louis
+68,85,Missoula,Billings
+336,293,Missoula,Bozeman
+36,198,Missoula,Denver
+24,21,Missoula,Kalispell
+519,951,Missoula,Great Falls
+557,900,Missoula,Salt Lake City
+207,223,Minneapolis,Anchorage
+1345,2760,Minneapolis,Atlanta
+252,524,Minneapolis,Appleton
+329,506,Minneapolis,Kalamazoo
+402,635,Minneapolis,Windsor Locks
+894,1278,Minneapolis,Billings
+771,1581,Minneapolis,Bismarck
+380,1051,Minneapolis,Nashville
+1303,1506,Minneapolis,Boston
+108,215,Minneapolis,Buffalo
+546,687,Minneapolis,Baltimore
+54,114,Minneapolis,Bozeman
+403,561,Minneapolis,Cedar Rapids
+942,2196,Minneapolis,Cleveland
+987,1009,Minneapolis,Charlotte
+358,682,Minneapolis,Columbus
+646,2057,Minneapolis,Covington
+316,600,Minneapolis,Mosinee
+282,532,Minneapolis,Dayton
+1677,2039,Minneapolis,Arlington
+3184,4654,Minneapolis,Denver
+1968,2618,Minneapolis,Dallas-Fort Worth
+857,1525,Minneapolis,Duluth
+783,1368,Minneapolis,Des Moines
+2835,3943,Minneapolis,Detroit
+338,644,Minneapolis,Eau Claire
+1462,1973,Minneapolis,Newark
+1125,1511,Minneapolis,Fargo
+46,80,Minneapolis,Ft. Lauderdale
+665,1253,Minneapolis,Sioux Falls
+463,785,Minneapolis,Spokane
+677,1283,Minneapolis,Grand Forks
+614,1170,Minneapolis,Green Bay
+636,967,Minneapolis,Grand Rapids
+489,785,Minneapolis,Great Falls
+46,64,Minneapolis,Hayden
+375,532,Minneapolis,Chantilly
+580,1126,Minneapolis,Houston
+637,1315,Minneapolis,Indianapolis
+679,950,Minneapolis,New York
+799,1330,Minneapolis,Las Vegas
+1830,2325,Minneapolis,Los Angeles
+1905,2532,Minneapolis,New York
+613,1302,Minneapolis,La Crosse
+774,1354,Minneapolis,Kansas City
+621,921,Minneapolis,Orlando
+907,1475,Minneapolis,Chicago
+1746,2570,Minneapolis,Memphis
+465,707,Minneapolis,Miami
+1416,2105,Minneapolis,Milwaukee
+233,382,Minneapolis,Moline
+381,739,Minneapolis,Minot
+849,1479,Minneapolis,Madison
+876,1427,Minneapolis,Omaha
+277,362,Minneapolis,Ontario
+8462,11107,Minneapolis,Chicago
+3,5,Minneapolis,West Palm Beach
+779,988,Minneapolis,Portland
+1120,1273,Minneapolis,Philadelphia
+1928,2739,Minneapolis,Phoenix
+1185,1949,Minneapolis,Pittsburgh
+379,811,Minneapolis,Rapid City
+242,383,Minneapolis,Reno
+867,1688,Minneapolis,Rochester
+126,129,Minneapolis,Ft. Myers
+944,1185,Minneapolis,San Diego
+62,160,Minneapolis,Louisville
+1577,2105,Minneapolis,Seattle
+2362,2629,Minneapolis,San Francisco
+1882,3327,Minneapolis,Salt Lake City
+490,797,Minneapolis,Sacramento
+718,1070,Minneapolis,Santa Ana
+3,6,Minneapolis,Sarasota
+1745,3475,Minneapolis,St Louis
+476,746,Minneapolis,Tampa
+225,378,Minneapolis,Tucson
+1565,3991,New Orleans,Atlanta
+7,8,New Orleans,Austin
+1053,1069,New Orleans,Birmingham
+762,898,New Orleans,Nashville
+24,37,New Orleans,Baton Rouge
+304,415,New Orleans,Baltimore
+80,275,New Orleans,Cleveland
+1251,1402,New Orleans,Charlotte
+462,1931,New Orleans,Covington
+251,617,New Orleans,Dallas
+498,701,New Orleans,Arlington
+1228,1638,New Orleans,Denver
+2709,4372,New Orleans,Dallas-Fort Worth
+111,205,New Orleans,Detroit
+913,1384,New Orleans,Newark
+82,45,New Orleans,Ft. Lauderdale
+3535,4357,New Orleans,Houston
+605,1032,New Orleans,Chantilly
+2443,3420,New Orleans,Houston
+175,188,New Orleans,Jackson
+35,18,New Orleans,Jacksonville
+595,716,New Orleans,New York
+617,729,New Orleans,Los Angeles
+851,1369,New Orleans,New York
+782,1823,New Orleans,Orlando
+862,1636,New Orleans,Memphis
+860,1112,New Orleans,Miami
+0,0,New Orleans,Mobile
+1100,1417,New Orleans,Chicago
+506,474,New Orleans,Philadelphia
+2,13,New Orleans,Phoenix
+1312,1367,New Orleans,Pittsburgh
+556,758,New Orleans,San Antonio
+155,174,New Orleans,San Francisco
+245,642,New Orleans,Salt Lake City
+831,1472,New Orleans,St Louis
+299,210,New Orleans,Tampa
+684,821,Myrtle Beach,Baltimore
+0,1,Myrtle Beach,Columbia
+2492,3215,Myrtle Beach,Charlotte
+8,10,Myrtle Beach,Dayton
+126,151,Myrtle Beach,Greensboro
+33,56,Myrtle Beach,Pittsburgh
+293,854,Myrtle Beach,Raleigh
+0,1,Myrtle Beach,Savannah
+375,581,Jacksonville,Baltimore
+1176,1151,Jacksonville,Charlotte
+1647,2063,Oakland,Burbank
+1,1,Oakland,Columbus
+0,1,Oakland,Casper
+1530,1758,Oakland,Denver
+1041,809,Oakland,Dallas-Fort Worth
+865,1568,Oakland,Las Vegas
+3592,3913,Oakland,Los Angeles
+676,1787,Oakland,Long Beach
+1063,1595,Oakland,Ontario
+1322,1609,Oakland,Chicago
+711,1467,Oakland,Portland
+1630,2843,Oakland,Phoenix
+2105,2921,Oakland,San Diego
+1487,2551,Oakland,Seattle
+279,333,Oakland,San Francisco
+207,298,Oakland,San Jose
+504,1535,Oakland,Salt Lake City
+215,269,Oakland,Sacramento
+1233,2509,Oakland,Santa Ana
+765,1260,Kahului,Honolulu
+0,0,Kahului,Kailua Kona
+744,1014,Kahului,Los Angeles
+98,100,Kahului,Lihue
+31,43,Kahului,Seattle
+351,524,Kahului,San Francisco
+512,1258,Oklahoma City,Atlanta
+2,2,Oklahoma City,Austin
+1607,2307,Oklahoma City,Dallas
+1616,2610,Oklahoma City,Denver
+2746,6201,Oklahoma City,Dallas-Fort Worth
+1,1,Oklahoma City,El Paso
+902,864,Oklahoma City,Houston
+301,791,Oklahoma City,Houston
+34,186,Oklahoma City,Wichita
+23,249,Oklahoma City,Los Angeles
+103,82,Oklahoma City,Little Rock
+1341,1741,Oklahoma City,Kansas City
+321,1033,Oklahoma City,Memphis
+1578,2120,Oklahoma City,Chicago
+1041,1410,Oklahoma City,Phoenix
+251,916,Oklahoma City,Salt Lake City
+983,2128,Oklahoma City,St Louis
+383,1028,Oklahoma City,Tulsa
+333,597,Omaha,Atlanta
+78,155,Omaha,Arlington
+1551,2678,Omaha,Denver
+528,983,Omaha,Dallas-Fort Worth
+732,1130,Omaha,Des Moines
+46,48,Omaha,Sioux Falls
+136,388,Omaha,Houston
+206,737,Omaha,Las Vegas
+65,141,Omaha,New York
+62,101,Omaha,Lincoln
+93,384,Omaha,Kansas City
+81,509,Omaha,Memphis
+42,262,Omaha,Milwaukee
+359,531,Omaha,Moline
+442,1356,Omaha,Minneapolis
+1,1,Omaha,Oklahoma City
+2904,3798,Omaha,Chicago
+640,1461,Omaha,Phoenix
+234,797,Omaha,Salt Lake City
+664,1753,Omaha,St Louis
+161,312,Omaha,Sioux City
+52,109,Omaha,Tulsa
+324,582,Nome,Anchorage
+259,545,Nome,Kotzebue
+258,368,Ontario,Atlanta
+62,83,Ontario,Bakersfield
+76,459,Ontario,Burbank
+1484,2387,Ontario,Denver
+2358,3247,Ontario,Dallas-Fort Worth
+4,3,Ontario,Newark
+14,8,Ontario,Houston
+392,1641,Ontario,Las Vegas
+91,150,Ontario,Los Angeles
+136,183,Ontario,Long Beach
+296,616,Ontario,Minneapolis
+1392,1402,Ontario,Oakland
+2284,2679,Ontario,Chicago
+99,341,Ontario,Portland
+5132,8065,Ontario,Phoenix
+523,756,Ontario,Palm Springs
+699,1183,Ontario,San Diego
+1,1,Ontario,San Antonio
+276,282,Ontario,Santa Barbara
+309,755,Ontario,Seattle
+4309,4922,Ontario,San Francisco
+1554,2025,Ontario,San Jose
+330,1019,Ontario,Salt Lake City
+1452,1780,Ontario,Sacramento
+37,43,Ontario,Santa Ana
+825,992,Ontario,St Louis
+1126,1191,Chicago,Allentown
+1684,1232,Chicago,Albuquerque
+3336,3081,Chicago,Albany
+422,292,Chicago,Anchorage
+7024,8260,Chicago,Atlanta
+1820,1633,Chicago,Austin
+4642,4142,Chicago,Windsor Locks
+460,441,Chicago,Bangor
+237,223,Chicago,Birmingham
+2877,2424,Chicago,Nashville
+658,587,Chicago,Boise
+7715,6284,Chicago,Boston
+667,810,Chicago,Burlington
+4364,3997,Chicago,Buffalo
+4960,5094,Chicago,Baltimore
+426,479,Chicago,Columbia
+1472,1233,Chicago,Akron
+290,339,Chicago,Charleston
+241,267,Chicago,Cedar Rapids
+5115,5317,Chicago,Cleveland
+4433,4801,Chicago,Charlotte
+4279,4259,Chicago,Columbus
+1086,864,Chicago,Colorado Springs
+197,176,Chicago,Charleston
+4529,6351,Chicago,Covington
+3310,3149,Chicago,Dayton
+7367,7439,Chicago,Arlington
+9712,8977,Chicago,Denver
+8569,7455,Chicago,Dallas-Fort Worth
+4003,3600,Chicago,Des Moines
+7304,8322,Chicago,Detroit
+879,544,Chicago,El Paso
+9827,9944,Chicago,Newark
+227,212,Chicago,Fargo
+808,935,Chicago,Ft. Lauderdale
+901,852,Chicago,Sioux Falls
+1593,1236,Chicago,Fort Wayne
+826,756,Chicago,Spokane
+4820,4638,Chicago,Grand Rapids
+1700,2065,Chicago,Greensboro
+96,76,Chicago,Gunnison
+245,169,Chicago,Hayden
+1410,864,Chicago,Honolulu
+705,814,Chicago,Houston
+707,1014,Chicago,White Plains
+804,765,Chicago,Huntsville
+4047,3427,Chicago,Chantilly
+4869,4563,Chicago,Houston
+1491,1507,Chicago,Wichita
+1,0,Chicago,Idaho Falls
+4140,4124,Chicago,Indianapolis
+1158,1003,Chicago,Islip
+169,141,Chicago,Jackson
+77,49,Chicago,Jackson
+744,840,Chicago,Jacksonville
+1100,1506,Chicago,New York
+2,0,Chicago,Kailua Kona
+4753,3882,Chicago,Las Vegas
+9299,7596,Chicago,Los Angeles
+183,189,Chicago,Lexington
+11680,10716,Chicago,New York
+1280,950,Chicago,Long Beach
+388,386,Chicago,Little Rock
+1187,1173,Chicago,Lincoln
+1235,1545,Chicago,Saginaw
+4748,4380,Chicago,Kansas City
+2407,2803,Chicago,Orlando
+2407,2078,Chicago,Harrisburg
+2167,3539,Chicago,Memphis
+776,792,Chicago,Manchester
+2613,2593,Chicago,Miami
+5056,4793,Chicago,Milwaukee
+0,0,Chicago,Melbourne
+1223,978,Chicago,Madison
+8142,9714,Chicago,Minneapolis
+1257,1279,Chicago,New Orleans
+1521,1273,Chicago,Oakland
+342,225,Chicago,Kahului
+2523,1926,Chicago,Oklahoma City
+3964,3427,Chicago,Omaha
+3513,2808,Chicago,Ontario
+1,0,Chicago,Chicago
+1363,1629,Chicago,Norfolk
+236,581,Chicago,West Palm Beach
+3866,3205,Chicago,Portland
+6182,5603,Chicago,Philadelphia
+5845,4849,Chicago,Phoenix
+6309,6371,Chicago,Pittsburgh
+703,600,Chicago,Palm Springs
+2681,2664,Chicago,Providence
+644,838,Chicago,Portland
+3340,3122,Chicago,Raleigh
+1228,1841,Chicago,Richmond
+736,562,Chicago,Reno
+142,129,Chicago,Roanoke
+4061,3617,Chicago,Rochester
+1250,1221,Chicago,Rochester
+484,535,Chicago,Ft. Myers
+5189,4211,Chicago,San Diego
+1737,1509,Chicago,San Antonio
+315,291,Chicago,Savannah
+75,29,Chicago,Santa Barbara
+1909,1986,Chicago,Louisville
+6426,5212,Chicago,Seattle
+8481,6792,Chicago,San Francisco
+345,319,Chicago,Springfield
+3692,2665,Chicago,San Jose
+860,674,Chicago,San Juan
+3693,4139,Chicago,Salt Lake City
+2863,2250,Chicago,Sacramento
+3105,2414,Chicago,Santa Ana
+430,494,Chicago,Sarasota
+6542,7781,Chicago,St Louis
+140,107,Chicago,Sioux City
+3833,3422,Chicago,Syracuse
+1585,1551,Chicago,Tampa
+2814,2238,Chicago,Tulsa
+1577,1236,Chicago,Tucson
+704,853,Chicago,Knoxville
+1,2,Norfolk,Albany
+1368,3903,Norfolk,Atlanta
+737,746,Norfolk,Boston
+2075,2692,Norfolk,Baltimore
+661,824,Norfolk,Charleston
+3459,4248,Norfolk,Charlotte
+228,847,Norfolk,Covington
+51,113,Norfolk,Arlington
+635,707,Norfolk,Dallas-Fort Worth
+490,1370,Norfolk,Detroit
+2771,3027,Norfolk,Newark
+30,93,Norfolk,Fayetteville
+848,1303,Norfolk,Chantilly
+311,435,Norfolk,Jacksonville
+586,351,Norfolk,New York
+2033,2262,Norfolk,New York
+14,66,Norfolk,Orlando
+1,0,Norfolk,Miami
+33,84,Norfolk,Myrtle Beach
+1243,1507,Norfolk,Chicago
+1616,2255,Norfolk,Philadelphia
+1546,2120,Norfolk,Pittsburgh
+1403,2499,Norfolk,Raleigh
+571,691,Norfolk,Richmond
+473,803,Norfolk,St Louis
+1116,1808,Worcester,Baltimore
+261,878,Worcester,Detroit
+137,369,Worcester,Newark
+422,576,Worcester,Pittsburgh
+207,472,Kotzebue,Anchorage
+329,536,Kotzebue,Nome
+1531,3623,West Palm Beach,Atlanta
+219,488,West Palm Beach,Windsor Locks
+246,356,West Palm Beach,Nashville
+621,1105,West Palm Beach,Boston
+790,669,West Palm Beach,Baltimore
+302,363,West Palm Beach,Cleveland
+306,365,West Palm Beach,Charlotte
+411,1010,West Palm Beach,Covington
+408,680,West Palm Beach,Arlington
+794,1157,West Palm Beach,Dallas-Fort Worth
+471,776,West Palm Beach,Detroit
+1923,3005,West Palm Beach,Newark
+649,1117,West Palm Beach,Ft. Lauderdale
+454,534,West Palm Beach,Chantilly
+384,613,West Palm Beach,Houston
+285,394,West Palm Beach,New York
+2333,3472,West Palm Beach,New York
+1714,2858,West Palm Beach,Orlando
+211,460,West Palm Beach,Memphis
+182,251,West Palm Beach,Miami
+4,3,West Palm Beach,Minneapolis
+425,662,West Palm Beach,Chicago
+1463,1825,West Palm Beach,Philadelphia
+840,1055,West Palm Beach,Pittsburgh
+720,743,West Palm Beach,Raleigh
+11,40,West Palm Beach,Ft. Myers
+75,167,West Palm Beach,Sarasota
+266,358,West Palm Beach,St Louis
+297,601,West Palm Beach,Tampa
+1,1,Portland,Albuquerque
+252,378,Portland,Anchorage
+417,413,Portland,Atlanta
+218,689,Portland,Burbank
+250,440,Portland,Covington
+1775,2283,Portland,Denver
+1200,1764,Portland,Dallas-Fort Worth
+103,149,Portland,Detroit
+712,865,Portland,Eugene
+620,1438,Portland,Spokane
+157,403,Portland,Las Vegas
+1905,3853,Portland,Los Angeles
+7,39,Portland,Long Beach
+790,1021,Portland,Minneapolis
+666,1627,Portland,Oakland
+196,410,Portland,Ontario
+2363,2685,Portland,Chicago
+997,1706,Portland,Phoenix
+261,286,Portland,Pasco
+31,46,Portland,Redmond
+979,1357,Portland,Reno
+117,192,Portland,San Diego
+6460,11756,Portland,Seattle
+4737,5647,Portland,San Francisco
+1032,2339,Portland,San Jose
+631,1453,Portland,Salt Lake City
+558,1038,Portland,Sacramento
+110,301,Portland,Santa Ana
+211,451,Portland,St Louis
+76,409,Panama City,Memphis
+4,19,Panama City,Montgomery
+146,216,Newport News,Chantilly
+609,1071,Newport News,Pittsburgh
+1815,2297,Philadelphia,Albany
+3902,5536,Philadelphia,Atlanta
+174,271,Philadelphia,Wilkes-Barre Scranton
+2351,2531,Philadelphia,Windsor Locks
+1453,1828,Philadelphia,Nashville
+6489,6780,Philadelphia,Boston
+685,768,Philadelphia,Burlington
+1452,1318,Philadelphia,Buffalo
+423,465,Philadelphia,Baltimore
+2231,3293,Philadelphia,Cleveland
+3392,3142,Philadelphia,Charlotte
+837,909,Philadelphia,Columbus
+1662,2834,Philadelphia,Covington
+1639,1657,Philadelphia,Dayton
+1258,1434,Philadelphia,Denver
+1926,2261,Philadelphia,Dallas-Fort Worth
+2291,3357,Philadelphia,Detroit
+73,142,Philadelphia,Newark
+2203,2142,Philadelphia,Ft. Lauderdale
+482,413,Philadelphia,Greensboro
+314,885,Philadelphia,Chantilly
+1752,1754,Philadelphia,Houston
+1360,1401,Philadelphia,Indianapolis
+999,886,Philadelphia,Jacksonville
+396,519,Philadelphia,New York
+205,203,Philadelphia,Las Vegas
+896,955,Philadelphia,Los Angeles
+52,99,Philadelphia,New York
+143,254,Philadelphia,Kansas City
+2945,3568,Philadelphia,Orlando
+335,953,Philadelphia,Memphis
+949,816,Philadelphia,Manchester
+2035,1971,Philadelphia,Miami
+113,424,Philadelphia,Milwaukee
+808,1499,Philadelphia,Minneapolis
+485,445,Philadelphia,New Orleans
+4785,5221,Philadelphia,Chicago
+1898,1745,Philadelphia,Norfolk
+1919,1910,Philadelphia,West Palm Beach
+545,505,Philadelphia,Phoenix
+5187,4635,Philadelphia,Pittsburgh
+1471,1346,Philadelphia,Providence
+1218,1016,Philadelphia,Portland
+1684,2222,Philadelphia,Raleigh
+509,951,Philadelphia,Richmond
+1564,1686,Philadelphia,Rochester
+1140,1266,Philadelphia,Ft. Myers
+420,345,Philadelphia,San Francisco
+800,802,Philadelphia,San Juan
+156,250,Philadelphia,Sarasota
+1335,1611,Philadelphia,St Louis
+1322,1375,Philadelphia,Syracuse
+2080,2184,Philadelphia,Tampa
+4561,6954,Phoenix,Albuquerque
+626,1384,Phoenix,Atlanta
+1428,2521,Phoenix,Austin
+450,658,Phoenix,Nashville
+1388,2608,Phoenix,Burbank
+1436,995,Phoenix,Baltimore
+437,447,Phoenix,Cleveland
+929,712,Phoenix,Charlotte
+756,1339,Phoenix,Colorado Springs
+293,462,Phoenix,Covington
+41,38,Phoenix,Dayton
+3800,5733,Phoenix,Denver
+2577,4263,Phoenix,Dallas-Fort Worth
+252,468,Phoenix,Durango
+911,1089,Phoenix,Des Moines
+1085,1460,Phoenix,Detroit
+6,9,Phoenix,Eagle
+4018,4910,Phoenix,El Paso
+272,358,Phoenix,Newark
+52,58,Phoenix,Fresno
+884,2437,Phoenix,Flagstaff
+104,267,Phoenix,Grand Canyon
+287,449,Phoenix,Grand Junction
+25,43,Phoenix,Hayden
+24,26,Phoenix,Honolulu
+1505,1453,Phoenix,Houston
+294,308,Phoenix,Chantilly
+803,1683,Phoenix,Houston
+672,1089,Phoenix,Wichita
+930,953,Phoenix,Indianapolis
+1266,1084,Phoenix,New York
+7550,11152,Phoenix,Las Vegas
+13307,15774,Phoenix,Los Angeles
+284,352,Phoenix,Lubbock
+678,1278,Phoenix,Long Beach
+255,420,Phoenix,Lincoln
+664,903,Phoenix,Midland
+1523,2003,Phoenix,Kansas City
+7,11,Phoenix,Chicago
+362,664,Phoenix,Memphis
+132,236,Phoenix,Milwaukee
+45,40,Phoenix,Moline
+1712,2487,Phoenix,Minneapolis
+64,22,Phoenix,New Orleans
+1657,2859,Phoenix,Oakland
+1206,1348,Phoenix,Oklahoma City
+941,1484,Phoenix,Omaha
+5995,9118,Phoenix,Ontario
+4459,4752,Phoenix,Chicago
+929,1750,Phoenix,Portland
+494,481,Phoenix,Philadelphia
+1562,1081,Phoenix,Pittsburgh
+313,517,Phoenix,Palm Springs
+232,430,Phoenix,Pueblo
+516,961,Phoenix,Reno
+8029,11642,Phoenix,San Diego
+879,983,Phoenix,San Antonio
+928,1715,Phoenix,Seattle
+3857,3763,Phoenix,San Francisco
+1885,3905,Phoenix,San Jose
+1392,3636,Phoenix,Salt Lake City
+542,1145,Phoenix,Sacramento
+1806,3243,Phoenix,Santa Ana
+1075,1726,Phoenix,St Louis
+152,284,Phoenix,Sioux City
+739,913,Phoenix,Tulsa
+4406,8195,Phoenix,Tucson
+759,1921,Phoenix,Yuma
+87,243,Peoria,Cedar Rapids
+123,374,Peoria,Champaign Urbana
+31,136,Peoria,Detroit
+358,497,Peoria,Moline
+349,1533,Peoria,St Louis
+106,318,St. Petersburg,Raleigh
+0,0,St. Petersburg,Tampa
+1804,2074,Pittsburgh,Allentown
+830,616,Pittsburgh,Albuquerque
+576,794,Pittsburgh,Atlantic City
+2041,2380,Pittsburgh,Albany
+2814,4047,Pittsburgh,Atlanta
+1541,1479,Pittsburgh,Wilkes-Barre Scranton
+2466,2496,Pittsburgh,Windsor Locks
+1255,1520,Pittsburgh,Binghamton
+2116,1935,Pittsburgh,Nashville
+3858,3362,Pittsburgh,Boston
+1630,1534,Pittsburgh,Burlington
+2168,2026,Pittsburgh,Buffalo
+3478,3580,Pittsburgh,Baltimore
+3338,3747,Pittsburgh,Cleveland
+2693,3204,Pittsburgh,Charlotte
+1944,2231,Pittsburgh,Columbus
+2036,1968,Pittsburgh,Charleston
+1760,2961,Pittsburgh,Covington
+1717,1762,Pittsburgh,Dayton
+3367,3036,Pittsburgh,Arlington
+2032,1880,Pittsburgh,Denver
+2835,2297,Pittsburgh,Dallas-Fort Worth
+3267,4153,Pittsburgh,Detroit
+1739,1957,Pittsburgh,Elmira
+2706,2488,Pittsburgh,Erie
+4354,5348,Pittsburgh,Newark
+1475,1339,Pittsburgh,Ft. Lauderdale
+1515,1707,Pittsburgh,Grand Rapids
+1285,1296,Pittsburgh,Greensboro
+85,92,Pittsburgh,Greer
+789,845,Pittsburgh,Huntington
+1501,1931,Pittsburgh,Chantilly
+1831,1451,Pittsburgh,Houston
+632,575,Pittsburgh,Wichita
+2739,2588,Pittsburgh,Indianapolis
+1572,1287,Pittsburgh,Islip
+500,568,Pittsburgh,Ithaca
+390,312,Pittsburgh,Jacksonville
+1348,2007,Pittsburgh,New York
+460,319,Pittsburgh,Las Vegas
+2839,2144,Pittsburgh,Los Angeles
+1309,1324,Pittsburgh,Lexington
+5216,5048,Pittsburgh,New York
+1635,1553,Pittsburgh,Kansas City
+2777,2645,Pittsburgh,Orlando
+3174,3364,Pittsburgh,Harrisburg
+1207,1123,Pittsburgh,Chicago
+953,868,Pittsburgh,Memphis
+1053,784,Pittsburgh,Manchester
+1120,1200,Pittsburgh,Miami
+1492,1338,Pittsburgh,Milwaukee
+1677,1984,Pittsburgh,Minneapolis
+1524,1496,Pittsburgh,New Orleans
+42,46,Pittsburgh,Myrtle Beach
+6393,7279,Pittsburgh,Chicago
+1694,1883,Pittsburgh,Norfolk
+370,354,Pittsburgh,Worcester
+1291,982,Pittsburgh,West Palm Beach
+963,948,Pittsburgh,Newport News
+5881,5565,Pittsburgh,Philadelphia
+1907,1432,Pittsburgh,Phoenix
+1989,2036,Pittsburgh,Providence
+1027,941,Pittsburgh,Portland
+2309,2597,Pittsburgh,Raleigh
+1748,2009,Pittsburgh,Richmond
+2177,2044,Pittsburgh,Rochester
+1026,1006,Pittsburgh,Ft. Myers
+1331,1054,Pittsburgh,San Diego
+1143,1083,Pittsburgh,San Antonio
+2008,1940,Pittsburgh,Louisville
+1079,831,Pittsburgh,Seattle
+2539,1946,Pittsburgh,San Francisco
+18,19,Pittsburgh,Sarasota
+1954,2545,Pittsburgh,St Louis
+1857,2113,Pittsburgh,Syracuse
+1375,1522,Pittsburgh,Toledo
+2016,1957,Pittsburgh,Tampa
+1019,1043,Pittsburgh,Bristol
+82,58,Pittsburgh,Tucson
+1313,1391,Pittsburgh,Knoxville
+24,24,Pittsburgh,Utica
+1614,3705,Pensacola,Atlanta
+759,1071,Pensacola,Baton Rouge
+392,367,Pensacola,Charlotte
+499,844,Pensacola,Houston
+1300,1596,Pensacola,Orlando
+203,360,Pensacola,Mobile
+349,622,Pensacola,Tampa
+51,279,Pasco,Boise
+186,162,Pasco,Spokane
+356,320,Pasco,Portland
+122,173,Pasco,San Francisco
+315,513,Pasco,Salt Lake City
+42,50,Pasco,Yakima
+81,116,Petersburg,Juneau
+132,269,Petersburg,Sitka
+205,306,Petersburg,Wrangell
+2,2,Palm Springs,Bakersfield
+385,666,Palm Springs,Denver
+329,347,Palm Springs,Dallas-Fort Worth
+236,337,Palm Springs,Las Vegas
+1,1,Palm Springs,Los Angeles
+0,0,Palm Springs,Long Beach
+360,610,Palm Springs,Ontario
+615,591,Palm Springs,Chicago
+233,430,Palm Springs,Phoenix
+394,289,Palm Springs,San Diego
+2,2,Palm Springs,Santa Barbara
+1382,1687,Palm Springs,San Francisco
+108,279,Palm Springs,San Jose
+57,155,Palm Springs,Salt Lake City
+58,52,Palm Springs,Sacramento
+81,113,Palm Springs,Santa Ana
+103,138,Palm Springs,St Louis
+75,69,Palm Springs,Tucson
+313,567,Pueblo,Colorado Springs
+14,35,Pueblo,Las Vegas
+140,351,Pueblo,Phoenix
+2,2,Providence,Albany
+158,415,Providence,Atlanta
+59,205,Providence,Windsor Locks
+1,0,Providence,Boston
+1752,2061,Providence,Baltimore
+1732,2514,Providence,Arlington
+310,1285,Providence,Detroit
+703,1705,Providence,Newark
+653,910,Providence,Chantilly
+37,79,Providence,Islip
+90,217,Providence,Orlando
+2247,2763,Providence,Chicago
+1612,1467,Providence,Philadelphia
+1889,1880,Providence,Pittsburgh
+481,671,Providence,Raleigh
+0,1,Providence,Syracuse
+56,98,Portland,Albany
+959,1723,Portland,Boston
+58,77,Portland,Burlington
+895,2076,Portland,Newark
+619,811,Portland,Chantilly
+323,826,Portland,New York
+1179,1169,Portland,Chicago
+1120,1076,Portland,Philadelphia
+1031,1091,Portland,Pittsburgh
+65,163,Rapid City,Casper
+43,63,Rapid City,Denver
+604,939,Rapid City,Sioux Falls
+88,475,Rapid City,Minneapolis
+139,356,Rapid City,Salt Lake City
+13,7,Rapid City,Sioux City
+6,6,Redding,Arcata Eureka
+5,8,Redding,San Francisco
+2,4,Redmond,Los Angeles
+136,218,Redmond,Medford
+15,29,Redmond,Portland
+8,9,Redmond,Seattle
+164,160,Redmond,San Francisco
+646,674,Raleigh,Albany
+2731,4999,Raleigh,Atlanta
+995,872,Raleigh,Windsor Locks
+772,598,Raleigh,Nashville
+1215,1027,Raleigh,Boston
+843,953,Raleigh,Buffalo
+1550,2029,Raleigh,Baltimore
+806,806,Raleigh,Columbia
+897,891,Raleigh,Charleston
+866,921,Raleigh,Cleveland
+4455,5060,Raleigh,Charlotte
+435,1376,Raleigh,Covington
+809,699,Raleigh,Daytona Beach
+2254,2012,Raleigh,Arlington
+1690,2064,Raleigh,Dallas-Fort Worth
+936,975,Raleigh,Detroit
+2547,2539,Raleigh,Newark
+1328,928,Raleigh,Ft. Lauderdale
+816,673,Raleigh,Greensboro
+1090,1059,Raleigh,Greer
+683,976,Raleigh,Chantilly
+77,95,Raleigh,Wilmington
+1075,872,Raleigh,Islip
+985,955,Raleigh,Jacksonville
+869,762,Raleigh,New York
+1640,1775,Raleigh,New York
+1391,1368,Raleigh,Orlando
+1304,915,Raleigh,Miami
+706,599,Raleigh,Melbourne
+597,787,Raleigh,Myrtle Beach
+2436,3278,Raleigh,Chicago
+1746,2057,Raleigh,Norfolk
+1224,1009,Raleigh,West Palm Beach
+1812,2323,Raleigh,Philadelphia
+455,483,Raleigh,St. Petersburg
+1907,2735,Raleigh,Pittsburgh
+751,757,Raleigh,Providence
+142,403,Raleigh,Richmond
+104,199,Raleigh,Roanoke
+823,799,Raleigh,Rochester
+1199,1063,Raleigh,Ft. Myers
+855,730,Raleigh,Savannah
+0,1,Raleigh,Louisville
+587,545,Raleigh,San Juan
+1132,1025,Raleigh,Sarasota
+349,1020,Raleigh,St Louis
+14,20,Raleigh,Charlotte Amalie
+41,57,Raleigh,Christiansted
+872,820,Raleigh,Syracuse
+1114,1150,Raleigh,Tampa
+872,2797,Richmond,Atlanta
+446,579,Richmond,Boston
+1072,1532,Richmond,Baltimore
+0,2,Richmond,Charleston
+3090,3634,Richmond,Charlotte
+273,920,Richmond,Covington
+64,104,Richmond,Dallas-Fort Worth
+1466,1860,Richmond,Newark
+43,46,Richmond,Fayetteville
+375,500,Richmond,Greensboro
+3,4,Richmond,Chantilly
+310,549,Richmond,New York
+1467,1664,Richmond,New York
+1392,1845,Richmond,Chicago
+521,999,Richmond,Norfolk
+464,774,Richmond,Philadelphia
+1273,1831,Richmond,Pittsburgh
+297,561,Richmond,Raleigh
+390,449,Richmond,Louisville
+2,2,Reno,Atlanta
+24,8,Reno,Boise
+117,179,Reno,Burbank
+1265,1589,Reno,Denver
+1112,1355,Reno,Dallas-Fort Worth
+465,954,Reno,Fresno
+1237,2434,Reno,Las Vegas
+1024,1438,Reno,Los Angeles
+1,1,Reno,Kansas City
+303,382,Reno,Minneapolis
+416,479,Reno,Chicago
+981,1373,Reno,Portland
+553,755,Reno,Phoenix
+1362,2007,Reno,Seattle
+2418,3401,Reno,San Francisco
+884,1435,Reno,San Jose
+673,1641,Reno,Salt Lake City
+147,172,Reno,Sacramento
+1,0,Reno,Tucson
+1058,1438,Roanoke,Baltimore
+3003,3391,Roanoke,Charlotte
+182,248,Roanoke,Charleston
+178,317,Roanoke,Newark
+448,464,Roanoke,New York
+118,191,Roanoke,Chicago
+299,357,Rochester,Albany
+331,675,Rochester,Atlanta
+1409,1291,Rochester,Boston
+166,168,Rochester,Buffalo
+1352,1598,Rochester,Baltimore
+425,498,Rochester,Cleveland
+957,1165,Rochester,Arlington
+342,1247,Rochester,Detroit
+2265,3045,Rochester,Newark
+658,1034,Rochester,Chantilly
+449,470,Rochester,New York
+2371,1984,Rochester,New York
+3043,3869,Rochester,Chicago
+1667,1669,Rochester,Philadelphia
+1830,1954,Rochester,Pittsburgh
+673,1031,Rochester,Raleigh
+1,0,Rochester,Sarasota
+1415,1715,Rochester,Syracuse
+14,16,asd,Agana
+241,242,asdas,Agana
+124,141,asd,
+8,33,Rochester,Waterloo
+47,68,Rochester,La Crosse
+439,1624,Rochester,Minneapolis
+761,1105,Rochester,Chicago
+1366,3199,Ft. Myers,Atlanta
+178,351,Ft. Myers,Nashville
+41,38,Ft. Myers,Boston
+309,283,Ft. Myers,Baltimore
+262,390,Ft. Myers,Cleveland
+290,433,Ft. Myers,Charlotte
+163,477,Ft. Myers,Covington
+4,11,Ft. Myers,Arlington
+343,596,Ft. Myers,Dallas-Fort Worth
+342,702,Ft. Myers,Detroit
+917,1458,Ft. Myers,Newark
+20,29,Ft. Myers,Ft. Lauderdale
+211,285,Ft. Myers,Chantilly
+35,46,Ft. Myers,Jacksonville
+122,142,Ft. Myers,New York
+47,65,Ft. Myers,New York
+497,2001,Ft. Myers,Orlando
+187,643,Ft. Myers,Memphis
+61,83,Ft. Myers,Miami
+122,153,Ft. Myers,Minneapolis
+562,584,Ft. Myers,Chicago
+37,37,Ft. Myers,West Palm Beach
+736,1044,Ft. Myers,Philadelphia
+575,802,Ft. Myers,Pittsburgh
+550,1046,Ft. Myers,Raleigh
+1606,2152,Ft. Myers,Sarasota
+328,387,Ft. Myers,St Louis
+631,1131,Ft. Myers,Tampa
+243,438,San Diego,Albuquerque
+270,425,San Diego,Atlanta
+4,38,San Diego,Burbank
+0,0,San Diego,Baltimore
+261,453,San Diego,Covington
+2871,3158,San Diego,Denver
+2594,3583,San Diego,Dallas-Fort Worth
+306,733,San Diego,Detroit
+354,302,San Diego,El Paso
+110,108,San Diego,Newark
+426,411,San Diego,Honolulu
+184,137,San Diego,Chantilly
+863,1347,San Diego,Houston
+526,514,San Diego,New York
+4426,5473,San Diego,Las Vegas
+7331,11905,San Diego,Los Angeles
+62,121,San Diego,Long Beach
+71,187,San Diego,Kansas City
+757,1078,San Diego,Minneapolis
+2316,2191,San Diego,Oakland
+544,1166,San Diego,Ontario
+3055,3334,San Diego,Chicago
+130,252,San Diego,Portland
+8159,11101,San Diego,Phoenix
+1170,978,San Diego,Pittsburgh
+363,463,San Diego,Palm Springs
+611,1096,San Diego,Seattle
+9137,8285,San Diego,San Francisco
+2535,3562,San Diego,San Jose
+762,1801,San Diego,Salt Lake City
+1892,2230,San Diego,Sacramento
+47,122,San Diego,Santa Ana
+740,1094,San Diego,St Louis
+91,186,San Diego,Tucson
+1,13,San Antonio,Albuquerque
+1043,1763,San Antonio,Atlanta
+1081,1790,San Antonio,Austin
+329,480,San Antonio,Nashville
+141,191,San Antonio,Corpus Christi
+2515,2148,San Antonio,Dallas
+644,944,San Antonio,Denver
+4819,8159,San Antonio,Dallas-Fort Worth
+1039,1543,San Antonio,El Paso
+98,219,San Antonio,Newark
+2387,2989,San Antonio,Houston
+484,454,San Antonio,Harlingen
+2123,3191,San Antonio,Houston
+545,774,San Antonio,Las Vegas
+565,761,San Antonio,Los Angeles
+226,597,San Antonio,Memphis
+205,590,San Antonio,New Orleans
+0,1,San Antonio,Ontario
+1189,1507,San Antonio,Chicago
+566,535,San Antonio,Phoenix
+807,1010,San Antonio,Pittsburgh
+181,697,San Antonio,Salt Lake City
+872,1517,San Antonio,St Louis
+1455,3797,Savannah,Atlanta
+30,33,Savannah,Columbia
+562,1068,Savannah,Charleston
+955,1398,Savannah,Charlotte
+180,328,Savannah,Dallas-Fort Worth
+22,285,Savannah,Greer
+200,316,Savannah,Chantilly
+417,848,Savannah,Jacksonville
+51,122,Savannah,New York
+1,1,Savannah,Melbourne
+0,1,Savannah,Myrtle Beach
+338,970,Savannah,Raleigh
+1,1,Savannah,Sarasota
+130,225,Santa Barbara,Bakersfield
+832,803,Santa Barbara,Denver
+250,300,Santa Barbara,Dallas-Fort Worth
+31,113,Santa Barbara,Las Vegas
+4,3,Santa Barbara,Los Angeles
+56,311,Santa Barbara,Long Beach
+2,1,Santa Barbara,Monterey
+76,160,Santa Barbara,Ontario
+1,2,Santa Barbara,Palm Springs
+1483,1680,Santa Barbara,San Francisco
+3,3,South Bend,Kalamazoo
+1814,1882,South Bend,Dayton
+1,0,South Bend,Dallas-Fort Worth
+449,1286,South Bend,Detroit
+7,7,South Bend,Grand Rapids
+149,609,Deadhorse,Anchorage
+78,130,Stockton,Denver
+27,26,Stockton,Fresno
+377,615,Stockton,Los Angeles
+1536,3074,Louisville,Atlanta
+140,291,Louisville,Birmingham
+2,2,Louisville,Cleveland
+1412,1477,Louisville,Charlotte
+2,2,Louisville,Columbus
+1226,2605,Louisville,Covington
+1451,1567,Louisville,Dayton
+934,1168,Louisville,Arlington
+116,125,Louisville,Denver
+871,1811,Louisville,Dallas-Fort Worth
+250,861,Louisville,Detroit
+68,180,Louisville,Evansville
+1,1,Louisville,Fort Wayne
+125,188,Louisville,Greensboro
+70,90,Louisville,Chantilly
+851,1768,Louisville,Indianapolis
+832,1259,Louisville,Lexington
+611,838,Louisville,New York
+341,1143,Louisville,Memphis
+29,203,Louisville,Minneapolis
+1526,2229,Louisville,Chicago
+1546,1853,Louisville,Pittsburgh
+393,394,Louisville,Richmond
+562,1996,Louisville,St Louis
+75,82,Louisville,Knoxville
+4553,7344,Seattle,Anchorage
+1113,1584,Seattle,Atlanta
+934,1436,Seattle,Bellingham
+350,728,Seattle,Boise
+327,550,Seattle,Burbank
+757,461,Seattle,Charlotte
+189,362,Seattle,Covington
+3478,3920,Seattle,Denver
+2235,2455,Seattle,Dallas-Fort Worth
+718,728,Seattle,Detroit
+178,197,Seattle,Newark
+0,0,Seattle,Fairbanks
+2065,4664,Seattle,Spokane
+573,701,Seattle,Honolulu
+515,446,Seattle,Chantilly
+345,396,Seattle,Houston
+989,919,Seattle,New York
+562,1046,Seattle,Juneau
+775,1386,Seattle,Ketchikan
+394,810,Seattle,Las Vegas
+5269,7932,Seattle,Los Angeles
+67,217,Seattle,Kansas City
+336,413,Seattle,Memphis
+48,92,Seattle,Milwaukee
+1287,1977,Seattle,Minneapolis
+1653,3080,Seattle,Oakland
+21,48,Seattle,Kahului
+189,575,Seattle,Ontario
+4136,4430,Seattle,Chicago
+5226,11043,Seattle,Portland
+1004,1761,Seattle,Phoenix
+794,771,Seattle,Pittsburgh
+4,7,Seattle,Redmond
+1498,1860,Seattle,Reno
+428,916,Seattle,San Diego
+7240,8937,Seattle,San Francisco
+40,62,Seattle,Sitka
+1696,3105,Seattle,San Jose
+794,2078,Seattle,Salt Lake City
+871,1284,Seattle,Sacramento
+544,1081,Seattle,Santa Ana
+1067,1085,Seattle,St Louis
+202,214,Seattle,Yakima
+621,465,San Francisco,Albuquerque
+7,7,San Francisco,Arcata Eureka
+83,103,San Francisco,Anchorage
+1503,2025,San Francisco,Atlanta
+1255,1543,San Francisco,Boise
+993,888,San Francisco,Boston
+5299,4863,San Francisco,Burbank
+1144,974,San Francisco,Cleveland
+1451,1257,San Francisco,Charlotte
+428,728,San Francisco,Covington
+758,634,San Francisco,Dayton
+4709,4990,San Francisco,Denver
+3834,4428,San Francisco,Dallas-Fort Worth
+1799,1867,San Francisco,Detroit
+473,523,San Francisco,El Paso
+1586,1919,San Francisco,Eugene
+1881,1968,San Francisco,Newark
+83,104,San Francisco,Fresno
+1260,1479,San Francisco,Spokane
+29,22,San Francisco,Hayden
+4758,3445,San Francisco,Honolulu
+1561,1460,San Francisco,Chantilly
+2268,2542,San Francisco,Houston
+660,495,San Francisco,Indianapolis
+3728,3550,San Francisco,New York
+355,284,San Francisco,Kailua Kona
+2944,3347,San Francisco,Las Vegas
+17529,19848,San Francisco,Los Angeles
+1932,3198,San Francisco,Long Beach
+476,599,San Francisco,Kansas City
+662,718,San Francisco,Memphis
+1369,1718,San Francisco,Medford
+236,352,San Francisco,Miami
+123,151,San Francisco,Milwaukee
+886,1017,San Francisco,Monterey
+2013,2381,San Francisco,Minneapolis
+87,124,San Francisco,New Orleans
+155,326,San Francisco,Oakland
+514,345,San Francisco,Kahului
+4035,4662,San Francisco,Ontario
+6531,5715,San Francisco,Chicago
+5062,6413,San Francisco,Portland
+525,461,San Francisco,Philadelphia
+4085,4491,San Francisco,Phoenix
+2142,1691,San Francisco,Pittsburgh
+108,85,San Francisco,Pasco
+1011,1329,San Francisco,Palm Springs
+7,9,San Francisco,Redding
+257,191,San Francisco,Redmond
+2865,3204,San Francisco,Reno
+8700,8970,San Francisco,San Diego
+1171,1562,San Francisco,Santa Barbara
+1,3,San Francisco,Stockton
+6915,8544,San Francisco,Seattle
+261,540,San Francisco,San Jose
+1779,2964,San Francisco,Salt Lake City
+618,1040,San Francisco,Sacramento
+5296,6089,San Francisco,Santa Ana
+1364,1531,San Francisco,St Louis
+243,272,San Francisco,South Lake Tahoe
+134,122,San Francisco,Yakima
+417,596,Springfield,Denver
+37,175,Springfield,Wichita
+33,22,Springfield,Little Rock
+341,452,Springfield,Chicago
+351,1039,Springfield,St Louis
+140,476,Shreveport,Atlanta
+265,496,Shreveport,Birmingham
+195,512,Shreveport,Baton Rouge
+1831,3451,Shreveport,Dallas-Fort Worth
+171,301,Shreveport,Jackson
+375,1246,Shreveport,Memphis
+685,1195,Shreveport,Monroe
+302,484,Shreveport,Mobile
+1,1,Shreveport,New Orleans
+502,847,Sitka,Juneau
+397,725,Sitka,Ketchikan
+36,110,Sitka,Seattle
+1886,2226,San Jose,Burbank
+2024,2876,San Jose,Denver
+1659,1956,San Jose,Dallas-Fort Worth
+194,398,San Jose,Eugene
+42,104,San Jose,Newark
+0,2,San Jose,Hayden
+89,241,San Jose,Houston
+821,1745,San Jose,Las Vegas
+5091,7275,San Jose,Los Angeles
+466,681,San Jose,Long Beach
+110,186,San Jose,Oakland
+1308,2251,San Jose,Ontario
+2556,2909,San Jose,Chicago
+1305,2545,San Jose,Portland
+1851,3362,San Jose,Phoenix
+133,193,San Jose,Palm Springs
+1083,1610,San Jose,Reno
+2615,3804,San Jose,San Diego
+1701,3083,San Jose,Seattle
+193,363,San Jose,San Francisco
+456,1656,San Jose,Salt Lake City
+2,3,San Jose,Sacramento
+2940,4270,San Jose,Santa Ana
+413,692,San Jose,St Louis
+455,584,San Jose,South Lake Tahoe
+1335,1890,San Juan,Atlanta
+210,267,San Juan,Windsor Locks
+61,17,San Juan,Nashville
+667,706,San Juan,Boston
+371,509,San Juan,Baltimore
+24,16,San Juan,Charlotte
+387,445,San Juan,Dallas-Fort Worth
+1004,1348,San Juan,Newark
+217,305,San Juan,Chantilly
+3103,3712,San Juan,New York
+19,24,San Juan,Los Angeles
+353,547,San Juan,Orlando
+1913,2757,San Juan,Miami
+548,579,San Juan,Chicago
+562,886,San Juan,Philadelphia
+427,365,San Juan,Raleigh
+9,27,San Juan,St Louis
+493,612,San Juan,Charlotte Amalie
+67,117,San Juan,Christiansted
+423,1058,Salt Lake City,Albuquerque
+897,1097,Salt Lake City,Anchorage
+1177,1437,Salt Lake City,Atlanta
+685,1290,Salt Lake City,Billings
+161,342,Salt Lake City,Bismarck
+860,1670,Salt Lake City,Boise
+461,505,Salt Lake City,Boston
+1,3,Salt Lake City,Butte
+369,723,Salt Lake City,Burbank
+754,1316,Salt Lake City,Bozeman
+267,795,Salt Lake City,Colorado Springs
+307,682,Salt Lake City,Casper
+1250,1565,Salt Lake City,Covington
+3216,5425,Salt Lake City,Denver
+2631,3334,Salt Lake City,Dallas-Fort Worth
+442,786,Salt Lake City,Fresno
+304,480,Salt Lake City,Kalispell
+29,86,Salt Lake City,Sioux Falls
+605,1021,Salt Lake City,Spokane
+406,840,Salt Lake City,Great Falls
+1,0,Salt Lake City,Gunnison
+327,501,Salt Lake City,Helena
+386,643,Salt Lake City,Chantilly
+319,717,Salt Lake City,Houston
+1015,1700,Salt Lake City,Idaho Falls
+974,1578,Salt Lake City,Jackson
+675,823,Salt Lake City,New York
+1491,3603,Salt Lake City,Las Vegas
+1989,3633,Salt Lake City,Los Angeles
+65,117,Salt Lake City,Long Beach
+763,1399,Salt Lake City,Kansas City
+342,402,Salt Lake City,Orlando
+382,936,Salt Lake City,Missoula
+1209,2639,Salt Lake City,Minneapolis
+330,595,Salt Lake City,New Orleans
+772,1540,Salt Lake City,Oakland
+428,754,Salt Lake City,Oklahoma City
+317,817,Salt Lake City,Omaha
+549,1177,Salt Lake City,Ontario
+3268,4319,Salt Lake City,Chicago
+1064,1706,Salt Lake City,Portland
+1575,4084,Salt Lake City,Phoenix
+593,910,Salt Lake City,Pasco
+143,179,Salt Lake City,Palm Springs
+121,471,Salt Lake City,Rapid City
+1284,1721,Salt Lake City,Reno
+1014,1679,Salt Lake City,San Diego
+388,874,Salt Lake City,San Antonio
+1621,2658,Salt Lake City,Seattle
+2222,2866,Salt Lake City,San Francisco
+784,1450,Salt Lake City,San Jose
+823,1570,Salt Lake City,Sacramento
+525,910,Salt Lake City,Santa Ana
+900,1742,Salt Lake City,St Louis
+296,698,Salt Lake City,Tulsa
+110,456,Salt Lake City,Tucson
+1049,1372,Sacramento,Burbank
+1074,1456,Sacramento,Denver
+1134,1433,Sacramento,Dallas-Fort Worth
+572,1209,Sacramento,Las Vegas
+2692,3903,Sacramento,Los Angeles
+517,756,Sacramento,Minneapolis
+74,100,Sacramento,Oakland
+936,1342,Sacramento,Ontario
+1811,2451,Sacramento,Chicago
+421,1005,Sacramento,Portland
+458,949,Sacramento,Phoenix
+7,16,Sacramento,Palm Springs
+25,28,Sacramento,Reno
+1285,2829,Sacramento,San Diego
+557,1114,Sacramento,Seattle
+651,1107,Sacramento,San Francisco
+4,5,Sacramento,San Jose
+375,1437,Sacramento,Salt Lake City
+1252,2450,Sacramento,Santa Ana
+0,10,Santa Ana,Burbank
+923,1411,Santa Ana,Denver
+2651,2989,Santa Ana,Dallas-Fort Worth
+86,216,Santa Ana,Houston
+1801,2948,Santa Ana,Las Vegas
+19,26,Santa Ana,Los Angeles
+1,1,Santa Ana,Long Beach
+8,30,Santa Ana,Memphis
+929,1097,Santa Ana,Minneapolis
+1804,2696,Santa Ana,Oakland
+172,164,Santa Ana,Ontario
+2454,2519,Santa Ana,Chicago
+193,369,Santa Ana,Portland
+1996,3011,Santa Ana,Phoenix
+123,226,Santa Ana,Palm Springs
+148,307,Santa Ana,San Diego
+690,1006,Santa Ana,Seattle
+6804,6558,Santa Ana,San Francisco
+3613,4983,Santa Ana,San Jose
+617,932,Santa Ana,Salt Lake City
+1784,2718,Santa Ana,Sacramento
+456,565,Santa Ana,St Louis
+70,34,Santa Ana,Tucson
+788,876,asds,Agana
+1141,2628,Sarasota,Atlanta
+61,161,Sarasota,Nashville
+59,133,Sarasota,Cleveland
+40,41,Sarasota,Charlotte
+12,15,Sarasota,Covington
+5,11,Sarasota,Arlington
+213,393,Sarasota,Dallas-Fort Worth
+273,436,Sarasota,Detroit
+603,1223,Sarasota,Newark
+70,102,Sarasota,Chantilly
+160,206,Sarasota,Houston
+56,65,Sarasota,New York
+202,360,Sarasota,New York
+248,992,Sarasota,Orlando
+84,416,Sarasota,Memphis
+2,1,Sarasota,Miami
+2,4,Sarasota,Minneapolis
+332,421,Sarasota,Chicago
+144,174,Sarasota,West Palm Beach
+122,228,Sarasota,Philadelphia
+14,20,Sarasota,Pittsburgh
+430,616,Sarasota,Raleigh
+1033,1610,Sarasota,Ft. Myers
+220,502,Sarasota,St Louis
+80,199,Sarasota,Tampa
+1681,1618,St Louis,Albuquerque
+23,31,St Louis,Waterloo
+2243,4536,St Louis,Atlanta
+571,780,St Louis,Austin
+1227,1246,St Louis,Windsor Locks
+903,1829,St Louis,Nashville
+2150,1908,St Louis,Boston
+832,629,St Louis,Burbank
+1676,2015,St Louis,Baltimore
+665,1346,St Louis,Cedar Rapids
+1261,1912,St Louis,Cleveland
+1611,2602,St Louis,Charlotte
+1520,2119,St Louis,Columbus
+195,460,St Louis,Champaign Urbana
+1195,1238,St Louis,Colorado Springs
+976,2550,St Louis,Covington
+1137,1976,St Louis,Dayton
+3891,3535,St Louis,Arlington
+3147,3361,St Louis,Denver
+441,814,St Louis,Detroit
+3569,3939,St Louis,Dallas-Fort Worth
+1347,2173,St Louis,Des Moines
+1946,3369,St Louis,Detroit
+2054,1735,St Louis,Newark
+681,587,St Louis,Ft. Lauderdale
+255,457,St Louis,Sioux Falls
+365,351,St Louis,Honolulu
+2621,3689,St Louis,Houston
+583,1133,St Louis,Chantilly
+1182,1792,St Louis,Houston
+1371,1870,St Louis,Wichita
+2125,2465,St Louis,Indianapolis
+562,773,St Louis,Jacksonville
+1153,1000,St Louis,New York
+1729,1422,St Louis,Las Vegas
+2980,2079,St Louis,Los Angeles
+179,413,St Louis,Lexington
+3235,2732,St Louis,New York
+92,69,St Louis,Long Beach
+1392,2337,St Louis,Little Rock
+456,1006,St Louis,Lincoln
+3754,4059,St Louis,Kansas City
+1907,1879,St Louis,Orlando
+424,604,St Louis,Harrisburg
+4005,5179,St Louis,Chicago
+958,2343,St Louis,Memphis
+2099,1827,St Louis,Miami
+1581,2237,St Louis,Milwaukee
+1017,1869,St Louis,Moline
+488,971,St Louis,Madison
+1978,3633,St Louis,Minneapolis
+1274,1384,St Louis,New Orleans
+2037,2353,St Louis,Oklahoma City
+1364,1821,St Louis,Omaha
+1395,988,St Louis,Ontario
+6554,8733,St Louis,Chicago
+735,720,St Louis,Norfolk
+584,539,St Louis,West Palm Beach
+555,483,St Louis,Portland
+2022,1536,St Louis,Philadelphia
+2355,2021,St Louis,Phoenix
+790,1385,St Louis,Peoria
+2263,2883,St Louis,Pittsburgh
+134,123,St Louis,Palm Springs
+547,1052,St Louis,Raleigh
+459,467,St Louis,Ft. Myers
+1405,1084,St Louis,San Diego
+1425,1388,St Louis,San Antonio
+1087,1827,St Louis,Louisville
+1375,1218,St Louis,Seattle
+2728,2204,St Louis,San Francisco
+575,1114,St Louis,Springfield
+748,729,St Louis,San Jose
+67,59,St Louis,San Juan
+1210,2039,St Louis,Salt Lake City
+901,717,St Louis,Santa Ana
+581,520,St Louis,Sarasota
+429,684,St Louis,Sioux City
+686,840,St Louis,Syracuse
+298,688,St Louis,Toledo
+2195,1895,St Louis,Tampa
+2414,2867,St Louis,Tulsa
+892,772,St Louis,Tucson
+2,9,Charlotte Amalie,Atlanta
+1,0,Charlotte Amalie,Newark
+110,119,Charlotte Amalie,Miami
+249,469,Charlotte Amalie,San Juan
+1267,1825,Charlotte Amalie,Christiansted
+125,114,Christiansted,Atlanta
+51,77,Christiansted,Newark
+610,935,Christiansted,New York
+393,546,Christiansted,Miami
+31,16,Christiansted,Raleigh
+17,103,Christiansted,San Juan
+265,385,Christiansted,Charlotte Amalie
+8,8,Hailey,Boise
+0,0,Hailey,Los Angeles
+29,103,Sioux City,Cedar Rapids
+45,38,Sioux City,Fargo
+207,435,Sioux City,Sioux Falls
+554,1477,Sioux City,Lincoln
+178,325,Sioux City,Omaha
+36,49,Sioux City,Chicago
+123,260,Sioux City,Phoenix
+44,35,Sioux City,Rapid City
+74,192,Sioux City,St Louis
+250,290,Syracuse,Albany
+451,978,Syracuse,Atlanta
+622,642,Syracuse,Windsor Locks
+1923,1735,Syracuse,Boston
+199,184,Syracuse,Burlington
+1033,1284,Syracuse,Buffalo
+2268,2196,Syracuse,Baltimore
+658,740,Syracuse,Cleveland
+2154,2335,Syracuse,Arlington
+1,1,Syracuse,Denver
+433,1450,Syracuse,Detroit
+494,679,Syracuse,Elmira
+2582,3347,Syracuse,Newark
+150,394,Syracuse,Chantilly
+455,759,Syracuse,Islip
+484,647,Syracuse,Ithaca
+956,1121,Syracuse,New York
+2662,2354,Syracuse,New York
+559,466,Syracuse,Orlando
+1,0,Syracuse,Miami
+2384,3095,Syracuse,Chicago
+1240,1731,Syracuse,Philadelphia
+1729,1919,Syracuse,Pittsburgh
+513,658,Syracuse,Raleigh
+1404,1885,Syracuse,Rochester
+465,1138,Syracuse,St Louis
+295,263,Syracuse,Tampa
+358,361,Syracuse,Utica
+888,2222,Tallahassee,Atlanta
+1070,965,Tallahassee,Charlotte
+1519,1264,Tallahassee,Orlando
+1300,1251,Tallahassee,Miami
+0,0,Tallahassee,Melbourne
+1843,1994,Tallahassee,Tampa
+603,794,Toledo,Atlanta
+628,644,Toledo,Dayton
+333,387,Toledo,Fort Wayne
+992,1495,Toledo,Pittsburgh
+139,732,Toledo,St Louis
+348,523,Tampa,Naples
+2732,6025,Tampa,Atlanta
+164,446,Tampa,Windsor Locks
+371,726,Tampa,Nashville
+898,1521,Tampa,Boston
+20,15,Tampa,Buffalo
+1734,1868,Tampa,Baltimore
+634,953,Tampa,Cleveland
+2995,3244,Tampa,Charlotte
+551,1389,Tampa,Covington
+1213,1214,Tampa,Dayton
+624,1004,Tampa,Arlington
+571,780,Tampa,Denver
+1425,2974,Tampa,Dallas-Fort Worth
+538,1394,Tampa,Detroit
+1454,2581,Tampa,Newark
+2803,3755,Tampa,Ft. Lauderdale
+525,541,Tampa,Greensboro
+0,1,Tampa,Houston
+556,989,Tampa,Chantilly
+936,1272,Tampa,Houston
+524,497,Tampa,Indianapolis
+1157,1334,Tampa,Jacksonville
+1109,1762,Tampa,New York
+567,533,Tampa,Los Angeles
+1676,2710,Tampa,New York
+1045,2333,Tampa,Orlando
+275,1115,Tampa,Memphis
+3931,6691,Tampa,Miami
+27,80,Tampa,Milwaukee
+25,50,Tampa,Melbourne
+188,644,Tampa,Minneapolis
+302,423,Tampa,New Orleans
+1195,1453,Tampa,Chicago
+798,1127,Tampa,West Palm Beach
+1555,2007,Tampa,Philadelphia
+0,0,Tampa,St. Petersburg
+1408,1518,Tampa,Pittsburgh
+389,618,Tampa,Pensacola
+50,82,Tampa,Providence
+534,689,Tampa,Raleigh
+870,1107,Tampa,Ft. Myers
+129,203,Tampa,Sarasota
+1573,1976,Tampa,St Louis
+313,297,Tampa,Syracuse
+1794,2581,Tampa,Tallahassee
+1743,2482,Bristol,Charlotte
+234,333,Bristol,Memphis
+314,589,Bristol,Pittsburgh
+27,29,Bristol,Knoxville
+176,299,Tulsa,Albuquerque
+716,1284,Tulsa,Atlanta
+0,1,Tulsa,Austin
+27,72,Tulsa,Nashville
+964,2254,Tulsa,Dallas
+996,1970,Tulsa,Denver
+3121,5163,Tulsa,Dallas-Fort Worth
+662,1192,Tulsa,Houston
+241,686,Tulsa,Houston
+129,197,Tulsa,Wichita
+559,628,Tulsa,Little Rock
+853,1280,Tulsa,Kansas City
+245,847,Tulsa,Memphis
+1,1,Tulsa,Minneapolis
+739,1430,Tulsa,Oklahoma City
+15,152,Tulsa,Omaha
+1658,2246,Tulsa,Chicago
+983,1438,Tulsa,Phoenix
+1,1,Tulsa,San Antonio
+1,0,Tulsa,South Bend
+223,777,Tulsa,Salt Lake City
+1246,2404,Tulsa,St Louis
+311,557,Tucson,Albuquerque
+55,91,Tucson,Atlanta
+1256,1608,Tucson,Denver
+1299,2292,Tucson,Dallas-Fort Worth
+141,101,Tucson,El Paso
+92,161,Tucson,Houston
+242,510,Tucson,Las Vegas
+1847,2584,Tucson,Los Angeles
+29,60,Tucson,Memphis
+211,453,Tucson,Minneapolis
+1,1,Tucson,Ontario
+947,1202,Tucson,Chicago
+4002,8178,Tucson,Phoenix
+30,56,Tucson,Pittsburgh
+125,146,Tucson,Palm Springs
+0,0,Tucson,Rockford
+0,0,Tucson,Reno
+95,150,Tucson,San Diego
+85,317,Tucson,Salt Lake City
+43,20,Tucson,Santa Ana
+488,729,Tucson,St Louis
+51,170,Traverse City,Detroit
+213,231,South Lake Tahoe,San Francisco
+399,533,South Lake Tahoe,San Jose
+853,2839,Knoxville,Atlanta
+411,1024,Knoxville,Nashville
+13,19,Knoxville,Chattanooga
+1172,1496,Knoxville,Charlotte
+313,707,Knoxville,Covington
+122,301,Knoxville,Dallas-Fort Worth
+412,1368,Knoxville,Memphis
+554,808,Knoxville,Chicago
+733,1296,Knoxville,Pittsburgh
+84,81,Knoxville,Louisville
+49,56,Knoxville,Bristol
+483,569,Utica,Baltimore
+99,90,Utica,Newark
+18,22,Utica,Pittsburgh
+507,461,Utica,Syracuse
+441,1427,Valparaiso,Memphis
+170,270,Wrangell,Ketchikan
+208,313,Wrangell,Petersburg
+174,316,Yakutat,Cordova
+102,348,Yakutat,Juneau
+121,128,a,Agana
+123,157,a,
+100,151,Yakima,Pasco
+89,240,Yakima,Seattle
+1,1,Yakima,San Francisco
+1,1,Yakima,San Jose
+57,91,Yuma,Las Vegas
+881,1671,Yuma,Phoenix
