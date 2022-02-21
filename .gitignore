@@ -45,3 +45,4 @@ testem.log
 Thumbs.db
 #archivos csv
 /flaskBigData/csvs
+.angular

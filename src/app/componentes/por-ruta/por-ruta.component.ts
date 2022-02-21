@@ -9,7 +9,7 @@ import { VuelosRutasService } from 'src/app/servicios/vuelos-rutas.service';
 })
 export class PorRutaComponent implements OnInit {
 
-  vuelos!: RetrasoPorRuta[];
+  vuelos: RetrasoPorRuta[]= [];
   public page = 1; // página actual
   public pageSize = 150; // número de páginas
   public maxSize = 10;

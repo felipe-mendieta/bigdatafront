@@ -1,6 +1,6 @@
 export class RetrasoPorRutaClima {
     Dest: string = "";
     Origin: string = "";
-    rdes: String = "";
+    rdes: string = "";
     rorg: string = "";
 }
