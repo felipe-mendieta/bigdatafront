@@ -20,7 +20,7 @@ export class PorAerolineaComponent implements OnInit {
     function delay(ms: number) {
       return new Promise( resolve => setTimeout(resolve, ms) );
     }
-    let speedView=[2007,2008,2007,2008];
+    let speedView=[2006,2007,2008];
     for (let year of speedView) {
       this.vuelosAeroService.getVuelos(year).subscribe(respuesta=>{
         console.log(respuesta);
