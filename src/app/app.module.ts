@@ -14,6 +14,7 @@ import { PrincipalComponent } from './principal/principal.component';
 import { PorAerolineaComponent } from './componentes/por-aerolinea/por-aerolinea.component';
 import { PorRutaClimaComponent } from './componentes/por-ruta-clima/por-ruta-clima.component';
 import { PorRutaComponent } from './componentes/por-ruta/por-ruta.component';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 @NgModule({
   declarations: [
@@ -33,7 +34,8 @@ import { PorRutaComponent } from './componentes/por-ruta/por-ruta.component';
     MatPaginatorModule,
     NgbModule,
     NgbPaginationModule,
-    MatProgressSpinnerModule
+    MatProgressSpinnerModule,
+    BrowserAnimationsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
