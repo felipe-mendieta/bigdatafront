@@ -5,15 +5,12 @@
       </a>
     </div>
   </nav>
-
 <div class=" border border-class">
     <h2 class="h2-class">Vuelos Retrasados</h2>
   </div>
 <div class="card">
     <div class="card-header">
-        <h2>
-            
-        </h2>
+        <ngb-pagination class="d-flex justify-content-center" [collectionSize]="vuelos.length" [maxSize]="maxSize" [(page)]="page" [pageSize]="pageSize"></ngb-pagination>
     </div>
     <div class="card-body">
         <table class="table table-bordered">
@@ -34,7 +31,6 @@
                 </tr>
             </tbody>
         </table>
-        <ngb-pagination class="d-flex justify-content-center" [collectionSize]="vuelos.length" [(page)]="page" [pageSize]="pageSize"></ngb-pagination>
     </div>
     <div class="card-footer text-muted">
         Universidad de Cuenca

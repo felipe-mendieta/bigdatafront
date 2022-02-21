@@ -7,7 +7,7 @@ import { Observable } from 'rxjs';
 })
 export class VuelosRutasService {
 
-  public baseUrl = "http://localhost:3000/data1/";
+  public baseUrl = "http://127.0.0.1:5000/consulta1/";
   constructor(private httpClient: HttpClient) { }
 
   public getVuelos(): Observable<any> {

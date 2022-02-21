@@ -11,7 +11,8 @@ export class PorRutaClimaComponent implements OnInit {
 
   vuelos!: RetrasoPorRutaClima[];
   public page = 1; // página actual
-  public pageSize = 10; // número de páginas
+  public pageSize = 150; // número de páginas
+  public maxSize = 10;
 
   constructor(private vuelosRutaClimaService: VuelosRutasClimaService) { }
 
