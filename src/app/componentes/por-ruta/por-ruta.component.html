@@ -1,0 +1,38 @@
+<nav class="navbar navbar-dark bg-dark">
+    <div class="container">
+      <a class="navbar-brand" href="#">
+        <img src="https://www.ucuenca.edu.ec/images/escudofinal.png" alt="" width="240">
+      </a>
+    </div>
+  </nav>
+<div class=" border border-class">
+    <h2 class="h2-class">Vuelos Retrasados</h2>
+  </div>
+<div class="card">
+    <div class="card-header">
+        <ngb-pagination class="d-flex justify-content-center" [collectionSize]="vuelos.length" [maxSize]="maxSize" [(page)]="page" [pageSize]="pageSize"></ngb-pagination>
+    </div>
+    <div class="card-body">
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th scope="row">Origen</th>
+                    <th scope="row">Destino</th>
+                    <th scope="row">Retrasos Origen</th>
+                    <th scope="row">Retrasos Destino</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let vuelo of vuelos | slice: (page-1) * pageSize : page * pageSize">
+                    <td scope="row">{{vuelo.Origin}}</td>
+                    <td scope="row">{{vuelo.Dest}}</td>
+                    <td scope="row">{{vuelo.rorg}}</td>
+                    <td scope="row">{{vuelo.rdes}}</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div class="card-footer text-muted">
+        Universidad de Cuenca
+    </div>
+</div>

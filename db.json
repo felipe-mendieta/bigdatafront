@@ -1,0 +1,76 @@
+{
+  "data1": [
+    {
+      "Dest": "ATL",
+      "Origin": "ABE",
+      "rdes": 91,
+      "rorg": 33
+    },
+    {
+      "Dest": "AVP",
+      "Origin": "ABE",
+      "rdes": 60,
+      "rorg": 35
+    },
+    {
+      "Dest": "DTW",
+      "Origin": "ABE",
+      "rdes": 142,
+      "rorg": 22
+    },
+    {
+      "Dest": "MDT",
+      "Origin": "ABE",
+      "rdes": 28,
+      "rorg": 17
+    },
+    {
+      "Dest": "ORD",
+      "Origin": "ABE",
+      "rdes": 80,
+      "rorg": 65
+    },
+    {
+      "Dest": "PHL",
+      "Origin": "ABE",
+      "rdes": 12,
+      "rorg": 15
+    },
+    {
+      "Dest": "PIT",
+      "Origin": "ABE",
+      "rdes": 269,
+      "rorg": 144
+    },
+    {
+      "Dest": "AMA",
+      "Origin": "ABQ",
+      "rdes": 155,
+      "rorg": 176
+    },
+    {
+      "Dest": "DAL",
+      "Origin": "ABQ",
+      "rdes": 138,
+      "rorg": 90
+    },
+    {
+      "Dest": "DEN",
+      "Origin": "ABQ",
+      "rdes": 459,
+      "rorg": 346
+    },
+    {
+      "Dest": "DFW",
+      "Origin": "ABQ",
+      "rdes": 607,
+      "rorg": 412
+    },
+    {
+      "Dest": "ELP",
+      "Origin": "ABQ",
+      "rdes": 339,
+      "rorg": 310
+    }
+  ]
+}
