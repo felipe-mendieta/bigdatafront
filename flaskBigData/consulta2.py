@@ -4,11 +4,12 @@ import time
 
 start = time.time()
 df = pd.DataFrame()
-# nameFinalFile="csvsprocesados/consulta2_hasta2008.csv"
+nameFinalFile="csvsprocesados/consulta2_hasta2008.csv"
 archivos=os.listdir("./csvs")
 #decomentar las siguientes 2 lineas para generar los datos solo hasta 2007
-archivos.pop()#para no tomar en cuenta el ultimo csv en este caso el 2008
-nameFinalFile="csvsprocesados/consulta2_hasta2007.csv"
+# archivos.pop()#para no tomar en cuenta el ultimo csv en este caso el 2008
+# archivos.pop()#para no tomar en cuenta el ultimo csv en este caso el 2008
+# nameFinalFile="csvsprocesados/consulta2_hasta2006.csv"
 for filename in archivos:
     print(filename)
     speedlayerview = pd.read_csv("./csvs/" + filename, encoding="windows-1251")[
