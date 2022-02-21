@@ -45,4 +45,5 @@ testem.log
 Thumbs.db
 #archivos csv
 /flaskBigData/csvs
-.angular
+/.angular
+/flaskBigData/__pycache__

@@ -13,7 +13,7 @@ def consulta1(year: str):
 
 @app.route('/consulta2/<string:year>/')
 def consulta2(year: str):
-  path="csvsprocesados/consulta2_hasta"+year+"join.csv"
+  path="csvsprocesados/consulta2_hasta"+year+".csv"
   print(path)
   data = pd.read_csv(path)
   data = data.to_dict('records')
@@ -21,7 +21,7 @@ def consulta2(year: str):
 
 @app.route('/consulta3/<string:year>/')
 def consulta3(year: str):
-  path="csvsprocesados/consulta3_hasta"+year+"join.csv"
+  path="csvsprocesados/consulta3_hasta"+year+".csv"
   print(path)
   data = pd.read_csv(path)
   data = data.to_dict('records')

@@ -27,6 +27,13 @@ destinretarases=df.groupby(['Origin', 'Dest']).agg({"rdes": tuple}).reset_index(
 destinretarases["rdes"]= destinretarases['rdes'].apply(lambda x: sum(x))
 dfFinal=originretarases.assign(rdes=destinretarases["rdes"])
 dfFinal.to_csv(nameFinalFile, index=False)
-print(dfFinal)
+#haciendo join con nombres de aeropuertos
+df1 = pd.read_csv("filesforjoin/airports.csv")[["iata","airport"]]
+df_res = pd.merge(dfFinal, df1, how='left', left_on="Origin", right_on="iata")
+df_res = pd.merge(df_res, df1, how='left', left_on="Dest", right_on="iata")
+df_res=df_res[["rorg","rdes","airport_x","airport_y"]]
+df_res.rename(columns = {'airport_x':'Origin', "airport_y": "Dest"}, inplace = True)
+df_res.to_csv(nameFinalFile, index=False)
+print(df_res)
 end = time.time()
 print("time",end - start)
