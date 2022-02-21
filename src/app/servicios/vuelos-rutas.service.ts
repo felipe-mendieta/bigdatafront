@@ -10,7 +10,7 @@ export class VuelosRutasService {
   public baseUrl = "http://127.0.0.1:5000/consulta1/";
   constructor(private httpClient: HttpClient) { }
 
-  public getVuelos(): Observable<any> {
-    return this.httpClient.get(`${this.baseUrl}`);
+  public getVuelos(year:number): Observable<any> {
+    return this.httpClient.get(`${this.baseUrl}${year}`);
   }
 }

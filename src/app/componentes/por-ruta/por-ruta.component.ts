@@ -16,10 +16,21 @@ export class PorRutaComponent implements OnInit {
 
   constructor(private vuelosRutaService: VuelosRutasService) { }
 
-  ngOnInit(): void {
-    this.vuelosRutaService.getVuelos().subscribe(respuesta=>{
-      console.log(respuesta);
-      this.vuelos=respuesta;
-    });
+  async ngOnInit(): Promise<void> {
+    function delay(ms: number) {
+      return new Promise( resolve => setTimeout(resolve, ms) );
+    }
+    let speedView=[2007,2008,2007,2008];
+    for (let year of speedView) {
+      this.vuelosRutaService.getVuelos(year).subscribe(respuesta=>{
+        console.log(respuesta);
+        this.vuelos=respuesta;
+      });
+      await delay(3000);
+    }
+    
   }
+
+  
+
 }
