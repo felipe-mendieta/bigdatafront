@@ -9,7 +9,7 @@ import { VuelosAerolineasService } from 'src/app/servicios/vuelos-aerolineas.ser
 })
 export class PorAerolineaComponent implements OnInit {
 
-  vuelos!: RetrasoPorAerolinea[];
+  vuelos: RetrasoPorAerolinea[]= [];
   public page = 1; // página actual
   public pageSize = 150; // número de páginas
   public maxSize = 10;

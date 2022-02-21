@@ -9,7 +9,7 @@ import { VuelosRutasClimaService } from 'src/app/servicios/vuelos-rutas-clima.se
 })
 export class PorRutaClimaComponent implements OnInit {
 
-  vuelos!: RetrasoPorRutaClima[];
+  vuelos: RetrasoPorRutaClima[]= [];
   public page = 1; // página actual
   public pageSize = 150; // número de páginas
   public maxSize = 10;
