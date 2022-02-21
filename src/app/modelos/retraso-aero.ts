@@ -1,5 +1,5 @@
 export class RetrasoPorAerolinea {
-    Dest: string = "";
-    Origin: string = "";
+    rdes: string = "";
+    rorg: string = "";
     UniqueCarrier: string = "";
 }
