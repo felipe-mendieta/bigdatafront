@@ -29,7 +29,14 @@ originretarases["rorg"]= originretarases['rorg'].apply(lambda x: sum(x))
 destinretarases=df.groupby(['UniqueCarrier']).agg({"rdes": tuple}).reset_index()#retrasos llegada
 destinretarases["rdes"]= destinretarases['rdes'].apply(lambda x: sum(x))
 dfFinal=originretarases.assign(rdes=destinretarases["rdes"])
-dfFinal.to_csv(nameFinalFile, index=False)
-print(dfFinal)
+
+#join con nombres de carriers
+
+df1 = pd.read_csv("filesforjoin/carriers.csv")
+df_res = pd.merge(dfFinal, df1, how='left', left_on="UniqueCarrier", right_on="Code")
+df_res=df_res[["Description","rorg","rdes"]]
+df_res.rename(columns = {'Description':'UniqueCarrier'}, inplace = True)
+df_res.to_csv(nameFinalFile, index=False)
+print(df_res)
 end = time.time()
 print("time",end - start)

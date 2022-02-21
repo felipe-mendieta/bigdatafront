@@ -8,7 +8,8 @@ nameFinalFile="csvsprocesados/consulta1_hasta2008.csv"
 archivos=os.listdir("./csvs")
 #decomentar las siguientes 2 lineas para generar los datos solo hasta 2007
 archivos.pop()#para no tomar en cuenta el ultimo csv en este caso el 2008
-nameFinalFile="csvsprocesados/consulta1_hasta2007.csv"
+archivos.pop()#para no tomar en cuenta el ultimo csv en este caso el 2008,2007
+nameFinalFile="csvsprocesados/consulta1_hasta2006.csv"
 for filename in archivos:
     print(filename)
     speedlayerview = pd.read_csv("./csvs/"+filename, encoding="windows-1251")[
