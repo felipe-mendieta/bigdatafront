@@ -8,7 +8,7 @@ CORS(app,resources={r"/*/*":{"origins":"*"},})
 @app.route('/consulta1/')
 def hello_world():  # put application's code here
     global path
-    data = pd.read_csv("consulta1_hasta2007.csv")
+    data = pd.read_csv("csvsprocesados/consulta1_hasta2007.csv")
     data = data.to_dict('records')
     return jsonify(data)
 if __name__ == '__main__':
