@@ -16,10 +16,18 @@ export class PorAerolineaComponent implements OnInit {
 
   constructor(private vuelosAeroService: VuelosAerolineasService) { }
 
-  ngOnInit(): void {
-    this.vuelosAeroService.getVuelos().subscribe(respuesta=>{
-      console.log(respuesta);
-      this.vuelos=respuesta;
-    });
+  async ngOnInit(): Promise<void> {
+    function delay(ms: number) {
+      return new Promise( resolve => setTimeout(resolve, ms) );
+    }
+    let speedView=[2007,2008,2007,2008];
+    for (let year of speedView) {
+      this.vuelosAeroService.getVuelos(year).subscribe(respuesta=>{
+        console.log(respuesta);
+        this.vuelos=respuesta;
+      });
+      await delay(3000);
+    }
+    
   }
 }
